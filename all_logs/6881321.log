@@ -1,0 +1,303 @@
+2021-10-17 01:09:20.635 | INFO     | request_utils:get:44 - Firing a GET request to https://www.moneycontrol.com/news/business/markets/hot-stocks-bpcl-mangalore-chemicals-and-nhpc-top-buys-for-short-term-heres-why-6881321.html with headers=None cookies=None query_params=None
+2021-10-17 01:09:21.351 | DEBUG    | request_utils:get:51 - Received response = <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><head><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><meta http-equiv="x-ua-compatible" content="ie=edge"><link href="https://fonts.googleapis.com/css?family=Noto+Serif:400,700" rel="stylesheet" defer>   <meta charset="utf-8"><title>Hot Stocks: BPCL, Mangalore Chemicals And NHPC Top Buys For Short Ter...
+2021-10-17 01:09:21.530 | DEBUG    | __main__:get_author:56 - Author details: name='Himanshu Gupta' designation='Vice President - Research| Globe Capital Markets Ltd '
+2021-10-17 01:09:21.546 | DEBUG    | __main__:get_metadata:40 - <traceback object at 0x7ff3aafbcbc0>
+2021-10-17 01:09:21.548 | DEBUG    | __main__:get_metadata:40 - <traceback object at 0x7ff3ab8c7dc0>
+2021-10-17 01:09:21.548 | DEBUG    | __main__:get_metadata:35 - Found metadata=[{'@context': 'https://schema.org', 'mainEntityOfPage': 'https://www.moneycontrol.com/news/business/markets/hot-stocks-bpcl-mangalore-chemicals-and-nhpc-top-buys-for-short-term-heres-why-6881321.html', '@type': 'NewsArticle', 'url': 'https://www.moneycontrol.com/news/business/markets/hot-stocks-bpcl-mangalore-chemicals-and-nhpc-top-buys-for-short-term-heres-why-6881321.html', 'articleBody': 'The Nifty50, after showing strength over the past few sessions, reacted to weak global cues on May 11 and closed with losses of nearly 100 points.Although&nbsp;the selling was visible at higher levels above 14,900 where all the call writers were active, just ahead of the weekly expiry on Thursday, bulls helped the market limit the downfall.Looking at the technical and derivatives setup, we remain cautiously positive on markets for May 12. The current consolidation appears to be a 4th wave consolidation on a shorter time frame where 14,775 and 14,715 are the immediate support levels for Nifty.The said levels are the 38.2% and 50% Fibonacci retracement levels, respectively, from the lows of 14,463 made on the 4th of May and the high of 14,966 tested on the 10th of May.We expect the Nifty50 to take support around these levels and continue to consolidate within a range of 14,750-14,950 for the next 2-3 trading sessions before resuming the uptrend and break above the 15,000 mark once again.The Nifty Bank has been lagging behind but 32,500 remains a strong support zone and we expect the index to move towards the 33,200-33,500 zone in the coming days.Long additions are being witnessed in capital goods, oil &amp;amp;amp; gas sectors.Mid and small caps continue to outperform and witness strong buying.Here is a list of top trading ideas for the short term:BPCL: Buy| Target: Rs 500| Stop Loss: Rs 440The stock is on the verge of a breakout from a rounding bottom pattern after forming a strong base around Rs 400-420.The stock has also cleared a psychological barrier of Rs&nbsp;450 where the call writers are seen covering their positions.A buy crossover on the short-term moving averages and the ADX at 23 support the bullishness in the stock.Mangalore Chemicals &amp;amp;amp; Fertilizers Ltd: Buy| Target: Rs 125| Stop Loss: Rs 80This mid-cap counter is looking strong on the charts as the recent move above Rs&nbsp;85-90 zone was faced with major resistance. Also, on the short-term charts, the counter bounced from a double-bottom formed around Rs&nbsp;70 zone on huge delivery volumes.The MACD on the weekly charts is giving strong positive divergence along with a buy crossover, adding further evidence to the bullish setup.We expect the stock to start fresh up move in the short to medium term with a potential to even deliver more than 50% returns in the coming months.NHPC: Buy| Target: Rs 32-35| Stop Loss: Rs 24The stock has given a breakout from the cup and handle pattern on the weekly charts within a bigger rounding bottom formation which is a very bullish technical setup.The RSI on the daily time frame has given a breakout from the downward sloping trend line and the volume activity has also been picking up very strongly over the past few sessions which confirms our bullish bias.(The author is VP Research Globe Capital Markets)Disclaimer: The views and investment tips expressed by the investment expert on Moneycontrol.com are his own and not that of the website or its management. Moneycontrol.com advises users to check with certified experts before taking any investment decisions.', 'articleSection': 'Business', 'headline': 'Hot Stocks: BPCL, Mangalore Chemicals and NHPC top buys for short term; here&rsquo;s why', 'description': 'We expect the Nifty50 to take support around these levels and continue to consolidate within a range of 14,750-14,950 for the next 2-3 trading sessions before resuming the uptrend and break above the 15000 mark once again, says Gupta.', 'author': 'Himanshu Gupta', 'datePublished': '2021-05-12T07:29:41+05:30', 'dateModified': '2021-05-12T07:29:41+05:30', 'image': {'@context': 'https://schema.org', '@type': 'ImageObject', 'width': '630px', 'height': '354px', 'url': 'https://images.moneycontrol.com/static-mcnews/2021/05/stocks_sensex_nifty_stockmarket3-1-770x433.jpg'}, 'publisher': {'@context': 'https://schema.org', '@type': 'Organization', 'name': 'Moneycontrol', 'logo': {'@context': 'https://schema.org', '@type': 'ImageObject', 'width': '247px', 'height': '94px', 'url': 'https://images.moneycontrol.com/images/common/header/logo.png'}, 'url': 'https://www.moneycontrol.com'}}]
+2021-10-17 01:09:21.562 | DEBUG    | __main__:get_tags:48 - Found tags=[<a href="https://www.moneycontrol.com/news/tags/himanshu-gupta.html" title="Himanshu Gupta">#Himanshu Gupta</a>, <a href="https://www.moneycontrol.com/news/tags/hot-stocks.html" title="Hot Stocks">#Hot Stocks</a>, <a href="https://www.moneycontrol.com/news/tags/market-edge.html" title="Market Edge">#Market Edge</a>, <a href="https://www.moneycontrol.com/news/tags/market-outlook.html" title="MARKET OUTLOOK">#MARKET OUTLOOK</a>, <a href="https://www.moneycontrol.com/news/tags/nifty.html" title="Nifty">#Nifty</a>, <a href="https://www.moneycontrol.com/news/tags/podcast.html" title="Podcast">#Podcast</a>, <a href="https://www.moneycontrol.com/news/tags/sensex.html" title="Sensex">#Sensex</a>, <a href="https://www.moneycontrol.com/news/tags/stock-recommendations.html" title="stock recommendations">#stock recommendations</a>, <a href="https://www.moneycontrol.com/news/tags/technical-recommendations.html" title="Technical Recommendations">#Technical Recommendations</a>]
+2021-10-17 01:09:21.579 | DEBUG    | __main__:get_related_stories:64 - Found related_stories=[<li><a href="https://www.moneycontrol.com/news/business/markets/hot-stocks-can-bet-on-hdfc-dixon-technologies-maruti-suzuki-india-for-short-term-7441371.html" onclick="ga('send', 'event', 'Related News Widget', 'News Consumption', '6881321_Relatednews_');" title="Hot Stocks | 'Can bet on HDFC, Dixon Technologies, Maruti Suzuki India for short term'"><div class="image_block"><img src="https://images.moneycontrol.com/static-mcnews/2021/09/stocks_sensex_nifty_stockmarket3.jpg?impolicy=website&amp;width=168&amp;height=118"/></div><div class="content_block">Hot Stocks | 'Can bet on HDFC, Dixon Technologies, Maruti Suzuki India for short term'</div></a></li>, <li><a href="https://www.moneycontrol.com/news/business/markets/hot-stocks-india-cements-phillips-carbon-and-bharat-electronics-top-buys-for-short-term-heres-why-6919191.html" onclick="ga('send', 'event', 'Related News Widget', 'News Consumption', '6881321_Relatednews_');" title="Hot Stocks: India Cements, Phillips Carbon and Bharat Electronics top buys for short term; here’s why"><div class="image_block"><img src="https://images.moneycontrol.com/static-mcnews/2017/10/BSE_Sensex_Stocks_NSE_Nifty.jpg?impolicy=website&amp;width=168&amp;height=118"/></div><div class="content_block">Hot Stocks: India Cements, Phillips Carbon and Bharat Electronics top buys for short term; here’s ...</div></a></li>, <li><a href="https://www.moneycontrol.com/news/business/markets/hot-stocks-bharti-airtel-ge-shipping-naukri-top-stocks-to-buy-for-short-term-6855591.html" onclick="ga('send', 'event', 'Related News Widget', 'News Consumption', '6881321_Relatednews_');" title="Hot Stocks: Bharti Airtel, GE Shipping &amp; Naukri top stocks to buy for short term"><div class="image_block"><img src="https://images.moneycontrol.com/static-mcnews/2018/12/trader-stock-market-nse-bse-market-bull-bear-770x433.jpg?impolicy=website&amp;width=168&amp;height=118"/></div><div class="content_block">Hot Stocks: Bharti Airtel, GE Shipping &amp; Naukri top stocks to buy for short term</div></a></li>]
+2021-10-17 01:09:21.584 | ERROR    | __main__:get_stock_symbols:25 - 'NoneType' object has no attribute 'find_all'
+Traceback (most recent call last):
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 188, in <module>
+    scraped_data = get_post(post)
+                   │        └ {'post_date': 'May 12, 2021 07:29 AM IST', 'post_title': 'Hot Stocks: BPCL, Mangalore Chemicals and NHPC top buys for short t...
+                   └ <function get_post at 0x7ff3abf34310>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 155, in get_post
+    moneycontrol_stock_ids = get_stock_symbols(content)
+                             │                 └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+                             └ <function get_stock_symbols at 0x7ff3ac075160>
+
+> File "/home/revant/Desktop/money_control/get_post.py", line 15, in get_stock_symbols
+    soup.find("div", class_="content_wrapper arti-flow")
+    │    └ <function Tag.find at 0x7ff3ac02b430>
+    └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+
+AttributeError: 'NoneType' object has no attribute 'find_all'
+2021-10-17 01:09:21.635 | ERROR    | __main__:get_stock_symbols:26 - <traceback object at 0x7ff3aafbd240>
+Traceback (most recent call last):
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 188, in <module>
+    scraped_data = get_post(post)
+                   │        └ {'post_date': 'May 12, 2021 07:29 AM IST', 'post_title': 'Hot Stocks: BPCL, Mangalore Chemicals and NHPC top buys for short t...
+                   └ <function get_post at 0x7ff3abf34310>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 155, in get_post
+    moneycontrol_stock_ids = get_stock_symbols(content)
+                             │                 └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+                             └ <function get_stock_symbols at 0x7ff3ac075160>
+
+> File "/home/revant/Desktop/money_control/get_post.py", line 15, in get_stock_symbols
+    soup.find("div", class_="content_wrapper arti-flow")
+    │    └ <function Tag.find at 0x7ff3ac02b430>
+    └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+
+AttributeError: 'NoneType' object has no attribute 'find_all'
+2021-10-17 01:09:21.690 | DEBUG    | __main__:get_calls:130 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/refineries/bharatpetroleumcorporation/BPC" rel="nofollow">BPCL: Buy| Target: Rs 500| Stop Loss: Rs 440</a>
+2021-10-17 01:09:21.692 | DEBUG    | __main__:get_call_data:73 - Split into parts=['BPCL: Buy', ' Target: Rs 500', ' Stop Loss: Rs 440']
+2021-10-17 01:09:21.692 | DEBUG    | __main__:get_call_data:82 - Link found = https://www.moneycontrol.com/india/stockpricequote/refineries/bharatpetroleumcorporation/BPC
+2021-10-17 01:09:21.692 | ERROR    | __main__:<module>:192 - list index out of range
+Traceback (most recent call last):
+
+> File "/home/revant/Desktop/money_control/get_post.py", line 188, in <module>
+    scraped_data = get_post(post)
+                   │        └ {'post_date': 'May 12, 2021 07:29 AM IST', 'post_title': 'Hot Stocks: BPCL, Mangalore Chemicals and NHPC top buys for short t...
+                   └ <function get_post at 0x7ff3abf34310>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 157, in get_post
+    calls_data = get_calls(content)
+                 │         └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+                 └ <function get_calls at 0x7ff3abf34280>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 138, in get_calls
+    calls_data.append(get_call_data(call_element))
+    │          │      │             └ <a href="https://www.moneycontrol.com/india/stockpricequote/refineries/bharatpetroleumcorporation/BPC" rel="nofollow">BPCL: B...
+    │          │      └ <function get_call_data at 0x7ff3abf341f0>
+    │          └ <method 'append' of 'list' objects>
+    └ []
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 101, in get_call_data
+    stop_loss = get_number(parts[3])
+                │          └ ['BPCL: Buy', ' Target: Rs 500', ' Stop Loss: Rs 440']
+                └ <function get_number at 0x7ff3ace24670>
+
+IndexError: list index out of range
+2021-10-17 01:09:21.706 | ERROR    | __main__:<module>:193 - <traceback object at 0x7ff3aaff0d00>
+Traceback (most recent call last):
+
+> File "/home/revant/Desktop/money_control/get_post.py", line 188, in <module>
+    scraped_data = get_post(post)
+                   │        └ {'post_date': 'May 12, 2021 07:29 AM IST', 'post_title': 'Hot Stocks: BPCL, Mangalore Chemicals and NHPC top buys for short t...
+                   └ <function get_post at 0x7ff3abf34310>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 157, in get_post
+    calls_data = get_calls(content)
+                 │         └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+                 └ <function get_calls at 0x7ff3abf34280>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 138, in get_calls
+    calls_data.append(get_call_data(call_element))
+    │          │      │             └ <a href="https://www.moneycontrol.com/india/stockpricequote/refineries/bharatpetroleumcorporation/BPC" rel="nofollow">BPCL: B...
+    │          │      └ <function get_call_data at 0x7ff3abf341f0>
+    │          └ <method 'append' of 'list' objects>
+    └ []
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 101, in get_call_data
+    stop_loss = get_number(parts[3])
+                │          └ ['BPCL: Buy', ' Target: Rs 500', ' Stop Loss: Rs 440']
+                └ <function get_number at 0x7ff3ace24670>
+
+IndexError: list index out of range
+2021-10-17 01:23:21.967 | INFO     | request_utils:get:44 - Firing a GET request to https://www.moneycontrol.com/news/business/markets/hot-stocks-bpcl-mangalore-chemicals-and-nhpc-top-buys-for-short-term-heres-why-6881321.html with headers=None cookies=None query_params=None
+2021-10-17 01:23:24.842 | DEBUG    | request_utils:get:51 - Received response = <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><head><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><meta http-equiv="x-ua-compatible" content="ie=edge"><link href="https://fonts.googleapis.com/css?family=Noto+Serif:400,700" rel="stylesheet" defer>   <meta charset="utf-8"><title>Hot Stocks: BPCL, Mangalore Chemicals And NHPC Top Buys For Short Ter...
+2021-10-17 01:23:25.004 | DEBUG    | __main__:get_author:56 - Author details: name='Himanshu Gupta' designation='Vice President - Research| Globe Capital Markets Ltd '
+2021-10-17 01:23:25.020 | DEBUG    | __main__:get_metadata:40 - <traceback object at 0x7f68fad06ec0>
+2021-10-17 01:23:25.021 | DEBUG    | __main__:get_metadata:40 - <traceback object at 0x7f68fb166f80>
+2021-10-17 01:23:25.021 | DEBUG    | __main__:get_metadata:35 - Found metadata=[{'@context': 'https://schema.org', 'mainEntityOfPage': 'https://www.moneycontrol.com/news/business/markets/hot-stocks-bpcl-mangalore-chemicals-and-nhpc-top-buys-for-short-term-heres-why-6881321.html', '@type': 'NewsArticle', 'url': 'https://www.moneycontrol.com/news/business/markets/hot-stocks-bpcl-mangalore-chemicals-and-nhpc-top-buys-for-short-term-heres-why-6881321.html', 'articleBody': 'The Nifty50, after showing strength over the past few sessions, reacted to weak global cues on May 11 and closed with losses of nearly 100 points.Although&nbsp;the selling was visible at higher levels above 14,900 where all the call writers were active, just ahead of the weekly expiry on Thursday, bulls helped the market limit the downfall.Looking at the technical and derivatives setup, we remain cautiously positive on markets for May 12. The current consolidation appears to be a 4th wave consolidation on a shorter time frame where 14,775 and 14,715 are the immediate support levels for Nifty.The said levels are the 38.2% and 50% Fibonacci retracement levels, respectively, from the lows of 14,463 made on the 4th of May and the high of 14,966 tested on the 10th of May.We expect the Nifty50 to take support around these levels and continue to consolidate within a range of 14,750-14,950 for the next 2-3 trading sessions before resuming the uptrend and break above the 15,000 mark once again.The Nifty Bank has been lagging behind but 32,500 remains a strong support zone and we expect the index to move towards the 33,200-33,500 zone in the coming days.Long additions are being witnessed in capital goods, oil &amp;amp;amp; gas sectors.Mid and small caps continue to outperform and witness strong buying.Here is a list of top trading ideas for the short term:BPCL: Buy| Target: Rs 500| Stop Loss: Rs 440The stock is on the verge of a breakout from a rounding bottom pattern after forming a strong base around Rs 400-420.The stock has also cleared a psychological barrier of Rs&nbsp;450 where the call writers are seen covering their positions.A buy crossover on the short-term moving averages and the ADX at 23 support the bullishness in the stock.Mangalore Chemicals &amp;amp;amp; Fertilizers Ltd: Buy| Target: Rs 125| Stop Loss: Rs 80This mid-cap counter is looking strong on the charts as the recent move above Rs&nbsp;85-90 zone was faced with major resistance. Also, on the short-term charts, the counter bounced from a double-bottom formed around Rs&nbsp;70 zone on huge delivery volumes.The MACD on the weekly charts is giving strong positive divergence along with a buy crossover, adding further evidence to the bullish setup.We expect the stock to start fresh up move in the short to medium term with a potential to even deliver more than 50% returns in the coming months.NHPC: Buy| Target: Rs 32-35| Stop Loss: Rs 24The stock has given a breakout from the cup and handle pattern on the weekly charts within a bigger rounding bottom formation which is a very bullish technical setup.The RSI on the daily time frame has given a breakout from the downward sloping trend line and the volume activity has also been picking up very strongly over the past few sessions which confirms our bullish bias.(The author is VP Research Globe Capital Markets)Disclaimer: The views and investment tips expressed by the investment expert on Moneycontrol.com are his own and not that of the website or its management. Moneycontrol.com advises users to check with certified experts before taking any investment decisions.', 'articleSection': 'Business', 'headline': 'Hot Stocks: BPCL, Mangalore Chemicals and NHPC top buys for short term; here&rsquo;s why', 'description': 'We expect the Nifty50 to take support around these levels and continue to consolidate within a range of 14,750-14,950 for the next 2-3 trading sessions before resuming the uptrend and break above the 15000 mark once again, says Gupta.', 'author': 'Himanshu Gupta', 'datePublished': '2021-05-12T07:29:41+05:30', 'dateModified': '2021-05-12T07:29:41+05:30', 'image': {'@context': 'https://schema.org', '@type': 'ImageObject', 'width': '630px', 'height': '354px', 'url': 'https://images.moneycontrol.com/static-mcnews/2021/05/stocks_sensex_nifty_stockmarket3-1-770x433.jpg'}, 'publisher': {'@context': 'https://schema.org', '@type': 'Organization', 'name': 'Moneycontrol', 'logo': {'@context': 'https://schema.org', '@type': 'ImageObject', 'width': '247px', 'height': '94px', 'url': 'https://images.moneycontrol.com/images/common/header/logo.png'}, 'url': 'https://www.moneycontrol.com'}}]
+2021-10-17 01:23:25.029 | DEBUG    | __main__:get_tags:48 - Found tags=[<a href="https://www.moneycontrol.com/news/tags/himanshu-gupta.html" title="Himanshu Gupta">#Himanshu Gupta</a>, <a href="https://www.moneycontrol.com/news/tags/hot-stocks.html" title="Hot Stocks">#Hot Stocks</a>, <a href="https://www.moneycontrol.com/news/tags/market-edge.html" title="Market Edge">#Market Edge</a>, <a href="https://www.moneycontrol.com/news/tags/market-outlook.html" title="MARKET OUTLOOK">#MARKET OUTLOOK</a>, <a href="https://www.moneycontrol.com/news/tags/nifty.html" title="Nifty">#Nifty</a>, <a href="https://www.moneycontrol.com/news/tags/podcast.html" title="Podcast">#Podcast</a>, <a href="https://www.moneycontrol.com/news/tags/sensex.html" title="Sensex">#Sensex</a>, <a href="https://www.moneycontrol.com/news/tags/stock-recommendations.html" title="stock recommendations">#stock recommendations</a>, <a href="https://www.moneycontrol.com/news/tags/technical-recommendations.html" title="Technical Recommendations">#Technical Recommendations</a>]
+2021-10-17 01:23:25.042 | DEBUG    | __main__:get_related_stories:64 - Found related_stories=[<li><a href="https://www.moneycontrol.com/news/business/markets/hot-stocks-can-bet-on-hdfc-dixon-technologies-maruti-suzuki-india-for-short-term-7441371.html" onclick="ga('send', 'event', 'Related News Widget', 'News Consumption', '6881321_Relatednews_');" title="Hot Stocks | 'Can bet on HDFC, Dixon Technologies, Maruti Suzuki India for short term'"><div class="image_block"><img src="https://images.moneycontrol.com/static-mcnews/2021/09/stocks_sensex_nifty_stockmarket3.jpg?impolicy=website&amp;width=168&amp;height=118"/></div><div class="content_block">Hot Stocks | 'Can bet on HDFC, Dixon Technologies, Maruti Suzuki India for short term'</div></a></li>, <li><a href="https://www.moneycontrol.com/news/business/markets/hot-stocks-india-cements-phillips-carbon-and-bharat-electronics-top-buys-for-short-term-heres-why-6919191.html" onclick="ga('send', 'event', 'Related News Widget', 'News Consumption', '6881321_Relatednews_');" title="Hot Stocks: India Cements, Phillips Carbon and Bharat Electronics top buys for short term; here’s why"><div class="image_block"><img src="https://images.moneycontrol.com/static-mcnews/2017/10/BSE_Sensex_Stocks_NSE_Nifty.jpg?impolicy=website&amp;width=168&amp;height=118"/></div><div class="content_block">Hot Stocks: India Cements, Phillips Carbon and Bharat Electronics top buys for short term; here’s ...</div></a></li>, <li><a href="https://www.moneycontrol.com/news/business/markets/hot-stocks-bharti-airtel-ge-shipping-naukri-top-stocks-to-buy-for-short-term-6855591.html" onclick="ga('send', 'event', 'Related News Widget', 'News Consumption', '6881321_Relatednews_');" title="Hot Stocks: Bharti Airtel, GE Shipping &amp; Naukri top stocks to buy for short term"><div class="image_block"><img src="https://images.moneycontrol.com/static-mcnews/2018/12/trader-stock-market-nse-bse-market-bull-bear-770x433.jpg?impolicy=website&amp;width=168&amp;height=118"/></div><div class="content_block">Hot Stocks: Bharti Airtel, GE Shipping &amp; Naukri top stocks to buy for short term</div></a></li>]
+2021-10-17 01:23:25.043 | ERROR    | __main__:get_stock_symbols:25 - 'NoneType' object has no attribute 'find_all'
+Traceback (most recent call last):
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 188, in <module>
+    scraped_data = get_post(post)
+                   │        └ {'post_date': 'May 12, 2021 07:29 AM IST', 'post_title': 'Hot Stocks: BPCL, Mangalore Chemicals and NHPC top buys for short t...
+                   └ <function get_post at 0x7f68fb0cc310>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 155, in get_post
+    moneycontrol_stock_ids = get_stock_symbols(content)
+                             │                 └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+                             └ <function get_stock_symbols at 0x7f68fb20d160>
+
+> File "/home/revant/Desktop/money_control/get_post.py", line 15, in get_stock_symbols
+    soup.find("div", class_="content_wrapper arti-flow")
+    │    └ <function Tag.find at 0x7f68fb1c8430>
+    └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+
+AttributeError: 'NoneType' object has no attribute 'find_all'
+2021-10-17 01:23:25.095 | ERROR    | __main__:get_stock_symbols:26 - <traceback object at 0x7f68fac93ec0>
+Traceback (most recent call last):
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 188, in <module>
+    scraped_data = get_post(post)
+                   │        └ {'post_date': 'May 12, 2021 07:29 AM IST', 'post_title': 'Hot Stocks: BPCL, Mangalore Chemicals and NHPC top buys for short t...
+                   └ <function get_post at 0x7f68fb0cc310>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 155, in get_post
+    moneycontrol_stock_ids = get_stock_symbols(content)
+                             │                 └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+                             └ <function get_stock_symbols at 0x7f68fb20d160>
+
+> File "/home/revant/Desktop/money_control/get_post.py", line 15, in get_stock_symbols
+    soup.find("div", class_="content_wrapper arti-flow")
+    │    └ <function Tag.find at 0x7f68fb1c8430>
+    └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+
+AttributeError: 'NoneType' object has no attribute 'find_all'
+2021-10-17 01:23:25.145 | DEBUG    | __main__:get_calls:130 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/refineries/bharatpetroleumcorporation/BPC" rel="nofollow">BPCL: Buy| Target: Rs 500| Stop Loss: Rs 440</a>
+2021-10-17 01:23:25.149 | DEBUG    | __main__:get_call_data:73 - Split into parts=['BPCL: Buy', ' Target: Rs 500', ' Stop Loss: Rs 440']
+2021-10-17 01:23:25.151 | DEBUG    | __main__:get_call_data:82 - Link found = https://www.moneycontrol.com/india/stockpricequote/refineries/bharatpetroleumcorporation/BPC
+2021-10-17 01:23:25.156 | ERROR    | __main__:<module>:192 - list index out of range
+Traceback (most recent call last):
+
+> File "/home/revant/Desktop/money_control/get_post.py", line 188, in <module>
+    scraped_data = get_post(post)
+                   │        └ {'post_date': 'May 12, 2021 07:29 AM IST', 'post_title': 'Hot Stocks: BPCL, Mangalore Chemicals and NHPC top buys for short t...
+                   └ <function get_post at 0x7f68fb0cc310>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 157, in get_post
+    calls_data = get_calls(content)
+                 │         └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+                 └ <function get_calls at 0x7f68fb0cc280>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 138, in get_calls
+    calls_data.append(get_call_data(call_element))
+    │          │      │             └ <a href="https://www.moneycontrol.com/india/stockpricequote/refineries/bharatpetroleumcorporation/BPC" rel="nofollow">BPCL: B...
+    │          │      └ <function get_call_data at 0x7f68fb0cc1f0>
+    │          └ <method 'append' of 'list' objects>
+    └ []
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 101, in get_call_data
+    stop_loss = get_number(parts[3])
+                │          └ ['BPCL: Buy', ' Target: Rs 500', ' Stop Loss: Rs 440']
+                └ <function get_number at 0x7f68fbfbc670>
+
+IndexError: list index out of range
+2021-10-17 01:23:25.186 | ERROR    | __main__:<module>:193 - <traceback object at 0x7f68fac934c0>
+Traceback (most recent call last):
+
+> File "/home/revant/Desktop/money_control/get_post.py", line 188, in <module>
+    scraped_data = get_post(post)
+                   │        └ {'post_date': 'May 12, 2021 07:29 AM IST', 'post_title': 'Hot Stocks: BPCL, Mangalore Chemicals and NHPC top buys for short t...
+                   └ <function get_post at 0x7f68fb0cc310>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 157, in get_post
+    calls_data = get_calls(content)
+                 │         └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+                 └ <function get_calls at 0x7f68fb0cc280>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 138, in get_calls
+    calls_data.append(get_call_data(call_element))
+    │          │      │             └ <a href="https://www.moneycontrol.com/india/stockpricequote/refineries/bharatpetroleumcorporation/BPC" rel="nofollow">BPCL: B...
+    │          │      └ <function get_call_data at 0x7f68fb0cc1f0>
+    │          └ <method 'append' of 'list' objects>
+    └ []
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 101, in get_call_data
+    stop_loss = get_number(parts[3])
+                │          └ ['BPCL: Buy', ' Target: Rs 500', ' Stop Loss: Rs 440']
+                └ <function get_number at 0x7f68fbfbc670>
+
+IndexError: list index out of range
+2021-10-17 01:24:40.297 | INFO     | request_utils:get:44 - Firing a GET request to https://www.moneycontrol.com/news/business/markets/hot-stocks-bpcl-mangalore-chemicals-and-nhpc-top-buys-for-short-term-heres-why-6881321.html with headers=None cookies=None query_params=None
+2021-10-17 01:24:40.491 | DEBUG    | request_utils:get:51 - Received response = <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><head><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><meta http-equiv="x-ua-compatible" content="ie=edge"><link href="https://fonts.googleapis.com/css?family=Noto+Serif:400,700" rel="stylesheet" defer>   <meta charset="utf-8"><title>Hot Stocks: BPCL, Mangalore Chemicals And NHPC Top Buys For Short Ter...
+2021-10-17 01:24:41.314 | DEBUG    | __main__:get_author:56 - Author details: name='Himanshu Gupta' designation='Vice President - Research| Globe Capital Markets Ltd '
+2021-10-17 01:24:41.353 | DEBUG    | __main__:get_metadata:40 - <traceback object at 0x7f09d0983340>
+2021-10-17 01:24:41.354 | DEBUG    | __main__:get_metadata:40 - <traceback object at 0x7f09d090dfc0>
+2021-10-17 01:24:41.359 | DEBUG    | __main__:get_metadata:35 - Found metadata=[{'@context': 'https://schema.org', 'mainEntityOfPage': 'https://www.moneycontrol.com/news/business/markets/hot-stocks-bpcl-mangalore-chemicals-and-nhpc-top-buys-for-short-term-heres-why-6881321.html', '@type': 'NewsArticle', 'url': 'https://www.moneycontrol.com/news/business/markets/hot-stocks-bpcl-mangalore-chemicals-and-nhpc-top-buys-for-short-term-heres-why-6881321.html', 'articleBody': 'The Nifty50, after showing strength over the past few sessions, reacted to weak global cues on May 11 and closed with losses of nearly 100 points.Although&nbsp;the selling was visible at higher levels above 14,900 where all the call writers were active, just ahead of the weekly expiry on Thursday, bulls helped the market limit the downfall.Looking at the technical and derivatives setup, we remain cautiously positive on markets for May 12. The current consolidation appears to be a 4th wave consolidation on a shorter time frame where 14,775 and 14,715 are the immediate support levels for Nifty.The said levels are the 38.2% and 50% Fibonacci retracement levels, respectively, from the lows of 14,463 made on the 4th of May and the high of 14,966 tested on the 10th of May.We expect the Nifty50 to take support around these levels and continue to consolidate within a range of 14,750-14,950 for the next 2-3 trading sessions before resuming the uptrend and break above the 15,000 mark once again.The Nifty Bank has been lagging behind but 32,500 remains a strong support zone and we expect the index to move towards the 33,200-33,500 zone in the coming days.Long additions are being witnessed in capital goods, oil &amp;amp;amp; gas sectors.Mid and small caps continue to outperform and witness strong buying.Here is a list of top trading ideas for the short term:BPCL: Buy| Target: Rs 500| Stop Loss: Rs 440The stock is on the verge of a breakout from a rounding bottom pattern after forming a strong base around Rs 400-420.The stock has also cleared a psychological barrier of Rs&nbsp;450 where the call writers are seen covering their positions.A buy crossover on the short-term moving averages and the ADX at 23 support the bullishness in the stock.Mangalore Chemicals &amp;amp;amp; Fertilizers Ltd: Buy| Target: Rs 125| Stop Loss: Rs 80This mid-cap counter is looking strong on the charts as the recent move above Rs&nbsp;85-90 zone was faced with major resistance. Also, on the short-term charts, the counter bounced from a double-bottom formed around Rs&nbsp;70 zone on huge delivery volumes.The MACD on the weekly charts is giving strong positive divergence along with a buy crossover, adding further evidence to the bullish setup.We expect the stock to start fresh up move in the short to medium term with a potential to even deliver more than 50% returns in the coming months.NHPC: Buy| Target: Rs 32-35| Stop Loss: Rs 24The stock has given a breakout from the cup and handle pattern on the weekly charts within a bigger rounding bottom formation which is a very bullish technical setup.The RSI on the daily time frame has given a breakout from the downward sloping trend line and the volume activity has also been picking up very strongly over the past few sessions which confirms our bullish bias.(The author is VP Research Globe Capital Markets)Disclaimer: The views and investment tips expressed by the investment expert on Moneycontrol.com are his own and not that of the website or its management. Moneycontrol.com advises users to check with certified experts before taking any investment decisions.', 'articleSection': 'Business', 'headline': 'Hot Stocks: BPCL, Mangalore Chemicals and NHPC top buys for short term; here&rsquo;s why', 'description': 'We expect the Nifty50 to take support around these levels and continue to consolidate within a range of 14,750-14,950 for the next 2-3 trading sessions before resuming the uptrend and break above the 15000 mark once again, says Gupta.', 'author': 'Himanshu Gupta', 'datePublished': '2021-05-12T07:29:41+05:30', 'dateModified': '2021-05-12T07:29:41+05:30', 'image': {'@context': 'https://schema.org', '@type': 'ImageObject', 'width': '630px', 'height': '354px', 'url': 'https://images.moneycontrol.com/static-mcnews/2021/05/stocks_sensex_nifty_stockmarket3-1-770x433.jpg'}, 'publisher': {'@context': 'https://schema.org', '@type': 'Organization', 'name': 'Moneycontrol', 'logo': {'@context': 'https://schema.org', '@type': 'ImageObject', 'width': '247px', 'height': '94px', 'url': 'https://images.moneycontrol.com/images/common/header/logo.png'}, 'url': 'https://www.moneycontrol.com'}}]
+2021-10-17 01:24:41.379 | DEBUG    | __main__:get_tags:48 - Found tags=[<a href="https://www.moneycontrol.com/news/tags/himanshu-gupta.html" title="Himanshu Gupta">#Himanshu Gupta</a>, <a href="https://www.moneycontrol.com/news/tags/hot-stocks.html" title="Hot Stocks">#Hot Stocks</a>, <a href="https://www.moneycontrol.com/news/tags/market-edge.html" title="Market Edge">#Market Edge</a>, <a href="https://www.moneycontrol.com/news/tags/market-outlook.html" title="MARKET OUTLOOK">#MARKET OUTLOOK</a>, <a href="https://www.moneycontrol.com/news/tags/nifty.html" title="Nifty">#Nifty</a>, <a href="https://www.moneycontrol.com/news/tags/podcast.html" title="Podcast">#Podcast</a>, <a href="https://www.moneycontrol.com/news/tags/sensex.html" title="Sensex">#Sensex</a>, <a href="https://www.moneycontrol.com/news/tags/stock-recommendations.html" title="stock recommendations">#stock recommendations</a>, <a href="https://www.moneycontrol.com/news/tags/technical-recommendations.html" title="Technical Recommendations">#Technical Recommendations</a>]
+2021-10-17 01:24:41.394 | DEBUG    | __main__:get_related_stories:64 - Found related_stories=[<li><a href="https://www.moneycontrol.com/news/business/markets/hot-stocks-can-bet-on-hdfc-dixon-technologies-maruti-suzuki-india-for-short-term-7441371.html" onclick="ga('send', 'event', 'Related News Widget', 'News Consumption', '6881321_Relatednews_');" title="Hot Stocks | 'Can bet on HDFC, Dixon Technologies, Maruti Suzuki India for short term'"><div class="image_block"><img src="https://images.moneycontrol.com/static-mcnews/2021/09/stocks_sensex_nifty_stockmarket3.jpg?impolicy=website&amp;width=168&amp;height=118"/></div><div class="content_block">Hot Stocks | 'Can bet on HDFC, Dixon Technologies, Maruti Suzuki India for short term'</div></a></li>, <li><a href="https://www.moneycontrol.com/news/business/markets/hot-stocks-india-cements-phillips-carbon-and-bharat-electronics-top-buys-for-short-term-heres-why-6919191.html" onclick="ga('send', 'event', 'Related News Widget', 'News Consumption', '6881321_Relatednews_');" title="Hot Stocks: India Cements, Phillips Carbon and Bharat Electronics top buys for short term; here’s why"><div class="image_block"><img src="https://images.moneycontrol.com/static-mcnews/2017/10/BSE_Sensex_Stocks_NSE_Nifty.jpg?impolicy=website&amp;width=168&amp;height=118"/></div><div class="content_block">Hot Stocks: India Cements, Phillips Carbon and Bharat Electronics top buys for short term; here’s ...</div></a></li>, <li><a href="https://www.moneycontrol.com/news/business/markets/hot-stocks-bharti-airtel-ge-shipping-naukri-top-stocks-to-buy-for-short-term-6855591.html" onclick="ga('send', 'event', 'Related News Widget', 'News Consumption', '6881321_Relatednews_');" title="Hot Stocks: Bharti Airtel, GE Shipping &amp; Naukri top stocks to buy for short term"><div class="image_block"><img src="https://images.moneycontrol.com/static-mcnews/2018/12/trader-stock-market-nse-bse-market-bull-bear-770x433.jpg?impolicy=website&amp;width=168&amp;height=118"/></div><div class="content_block">Hot Stocks: Bharti Airtel, GE Shipping &amp; Naukri top stocks to buy for short term</div></a></li>]
+2021-10-17 01:24:41.396 | ERROR    | __main__:get_stock_symbols:25 - 'NoneType' object has no attribute 'find_all'
+Traceback (most recent call last):
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 188, in <module>
+    scraped_data = get_post(post)
+                   │        └ {'post_date': 'May 12, 2021 07:29 AM IST', 'post_title': 'Hot Stocks: BPCL, Mangalore Chemicals and NHPC top buys for short t...
+                   └ <function get_post at 0x7f09d0d63310>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 155, in get_post
+    moneycontrol_stock_ids = get_stock_symbols(content)
+                             │                 └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+                             └ <function get_stock_symbols at 0x7f09d0e89160>
+
+> File "/home/revant/Desktop/money_control/get_post.py", line 15, in get_stock_symbols
+    soup.find("div", class_="content_wrapper arti-flow")
+    │    └ <function Tag.find at 0x7f09d0e3c430>
+    └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+
+AttributeError: 'NoneType' object has no attribute 'find_all'
+2021-10-17 01:24:41.504 | ERROR    | __main__:get_stock_symbols:26 - <traceback object at 0x7f09d090df00>
+Traceback (most recent call last):
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 188, in <module>
+    scraped_data = get_post(post)
+                   │        └ {'post_date': 'May 12, 2021 07:29 AM IST', 'post_title': 'Hot Stocks: BPCL, Mangalore Chemicals and NHPC top buys for short t...
+                   └ <function get_post at 0x7f09d0d63310>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 155, in get_post
+    moneycontrol_stock_ids = get_stock_symbols(content)
+                             │                 └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+                             └ <function get_stock_symbols at 0x7f09d0e89160>
+
+> File "/home/revant/Desktop/money_control/get_post.py", line 15, in get_stock_symbols
+    soup.find("div", class_="content_wrapper arti-flow")
+    │    └ <function Tag.find at 0x7f09d0e3c430>
+    └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+
+AttributeError: 'NoneType' object has no attribute 'find_all'
+2021-10-17 01:24:41.603 | DEBUG    | __main__:get_calls:130 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/refineries/bharatpetroleumcorporation/BPC" rel="nofollow">BPCL: Buy| Target: Rs 500| Stop Loss: Rs 440</a>
+2021-10-17 01:24:41.605 | DEBUG    | __main__:get_call_data:73 - Split into parts=['BPCL: Buy', ' Target: Rs 500', ' Stop Loss: Rs 440']
+2021-10-17 01:24:41.607 | DEBUG    | __main__:get_call_data:82 - Link found = https://www.moneycontrol.com/india/stockpricequote/refineries/bharatpetroleumcorporation/BPC
+2021-10-17 01:24:41.610 | ERROR    | __main__:<module>:192 - list index out of range
+Traceback (most recent call last):
+
+> File "/home/revant/Desktop/money_control/get_post.py", line 188, in <module>
+    scraped_data = get_post(post)
+                   │        └ {'post_date': 'May 12, 2021 07:29 AM IST', 'post_title': 'Hot Stocks: BPCL, Mangalore Chemicals and NHPC top buys for short t...
+                   └ <function get_post at 0x7f09d0d63310>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 157, in get_post
+    calls_data = get_calls(content)
+                 │         └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+                 └ <function get_calls at 0x7f09d0d63280>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 138, in get_calls
+    calls_data.append(get_call_data(call_element))
+    │          │      │             └ <a href="https://www.moneycontrol.com/india/stockpricequote/refineries/bharatpetroleumcorporation/BPC" rel="nofollow">BPCL: B...
+    │          │      └ <function get_call_data at 0x7f09d0d631f0>
+    │          └ <method 'append' of 'list' objects>
+    └ []
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 101, in get_call_data
+    stop_loss = get_number(parts[3])
+                │          └ ['BPCL: Buy', ' Target: Rs 500', ' Stop Loss: Rs 440']
+                └ <function get_number at 0x7f09d1c38670>
+
+IndexError: list index out of range
+2021-10-17 01:24:41.643 | ERROR    | __main__:<module>:193 - <traceback object at 0x7f09d090fdc0>
+Traceback (most recent call last):
+
+> File "/home/revant/Desktop/money_control/get_post.py", line 188, in <module>
+    scraped_data = get_post(post)
+                   │        └ {'post_date': 'May 12, 2021 07:29 AM IST', 'post_title': 'Hot Stocks: BPCL, Mangalore Chemicals and NHPC top buys for short t...
+                   └ <function get_post at 0x7f09d0d63310>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 157, in get_post
+    calls_data = get_calls(content)
+                 │         └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+                 └ <function get_calls at 0x7f09d0d63280>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 138, in get_calls
+    calls_data.append(get_call_data(call_element))
+    │          │      │             └ <a href="https://www.moneycontrol.com/india/stockpricequote/refineries/bharatpetroleumcorporation/BPC" rel="nofollow">BPCL: B...
+    │          │      └ <function get_call_data at 0x7f09d0d631f0>
+    │          └ <method 'append' of 'list' objects>
+    └ []
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 101, in get_call_data
+    stop_loss = get_number(parts[3])
+                │          └ ['BPCL: Buy', ' Target: Rs 500', ' Stop Loss: Rs 440']
+                └ <function get_number at 0x7f09d1c38670>
+
+IndexError: list index out of range

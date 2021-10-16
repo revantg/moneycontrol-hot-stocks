@@ -1,0 +1,103 @@
+2021-10-17 01:25:34.354 | INFO     | request_utils:get:44 - Firing a GET request to https://www.moneycontrol.com/news/business/markets/hot-stocks-heres-why-laxmi-organics-d-mart-welspun-corp-can-rally-10-17-6822721.html with headers=None cookies=None query_params=None
+2021-10-17 01:25:34.954 | DEBUG    | request_utils:get:51 - Received response = <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><head><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><meta http-equiv="x-ua-compatible" content="ie=edge"><link href="https://fonts.googleapis.com/css?family=Noto+Serif:400,700" rel="stylesheet" defer>   <meta charset="utf-8"><title>Hot Stocks: Here’s Why Laxmi Organics, D-Mart & Welspun Corp Can Rall...
+2021-10-17 01:25:35.108 | DEBUG    | __main__:get_author:56 - Author details: name='Rohit Singre' designation='Equity - Senior Research Analyst|LKP Securities '
+2021-10-17 01:25:35.124 | DEBUG    | __main__:get_metadata:40 - <traceback object at 0x7f09cfec94c0>
+2021-10-17 01:25:35.126 | DEBUG    | __main__:get_metadata:40 - <traceback object at 0x7f09d0a63200>
+2021-10-17 01:25:35.127 | DEBUG    | __main__:get_metadata:35 - Found metadata=[{'@context': 'https://schema.org', 'mainEntityOfPage': 'https://www.moneycontrol.com/news/business/markets/hot-stocks-heres-why-laxmi-organics-d-mart-welspun-corp-can-rally-10-17-6822721.html', '@type': 'NewsArticle', 'url': 'https://www.moneycontrol.com/news/business/markets/hot-stocks-heres-why-laxmi-organics-d-mart-welspun-corp-can-rally-10-17-6822721.html', 'articleBody': 'Indian market continued its winning streak for the second consecutive day on April 27 rising over 1 percent. Nifty opened gap-up and&nbsp;closed the day at 14,655.If the index manages to sustain above 14580-14500, it may see a further extension to&nbsp;14750 zone&nbsp;and above that, we may see a fresh breakout which can push the index towards 15,000 mark.Here is a list of top stocks for the next 3-4 weeks:Laxmi Organics: Buy at Rs 195 | LTP: Rs 195 | Target: Rs 230 | Stop Loss: below&nbsp;Rs&nbsp;178 on closing basis| Upside 17%On an hourly chart, the price has moved above its strong hurdle zone of Rs 195. We can also consider this as a sort of double bottom breakout.Strong volume has been witnessed in the recent up move along with fresh breakout which hints that the stock is all set to move northwards in the near to short term.The immediate hurdle on the higher side is placed around Rs 207, and once we cross the said levels, a fresh breakout can be seen towards&nbsp;Rs&nbsp;230-250 levels.D-Mart: Buy at&nbsp;Rs 2,827 | Target: Rs 3100 | Stop Loss below Rs 2675 on closing basis| Upside 10%The stock has shown a good bounce from its strong demand zone.&nbsp;It has formed a morning star candle pattern on the daily chart which stands for a strong bullish reversal.On the immediate basis,&nbsp;Rs&nbsp;2900 will act as a stiff hurdle on the higher side, and once we cross above that, we may see a strong move which can push prices towards&nbsp;Rs&nbsp;3100-3200 in the near to short term.Welspun Corp: Buy at Rs 152 | Target: Rs 165-175 | Stop Loss below Rs 140 on closing basis | Upside 15%The stock has previously given a breakout from its cup and handles pattern and has recently moved after retesting the breakout zone.Last three candle shows a strong bullish momentum with incremental volume activity which hints that we may see an extension in the current up move towards&nbsp;Rs&nbsp;160 on immediate basis and&nbsp;Rs&nbsp;175 on an overall basis.Disclaimer: The views and investment tips expressed by experts on Moneycontrol.com are their own and not those of the website or its management. Moneycontrol.com advises users to check with certified experts before taking any investment decisions.', 'articleSection': 'Business', 'headline': 'Hot Stocks: Here&rsquo;s why Laxmi Organics, D-Mart &amp;amp; Welspun Corp can rally 10-17%', 'description': 'If the index manages to sustain above 14580-14500, it may see a further extension to 14750 zone and above that, we may see a fresh breakout which can push the index towards 15,000 mark', 'author': 'Rohit Singre', 'datePublished': '2021-04-28T07:16:38+05:30', 'dateModified': '2021-04-28T07:44:43+05:30', 'image': {'@context': 'https://schema.org', '@type': 'ImageObject', 'width': '630px', 'height': '354px', 'url': 'https://images.moneycontrol.com/static-mcnews/2021/04/Delisting-770x433.jpg'}, 'publisher': {'@context': 'https://schema.org', '@type': 'Organization', 'name': 'Moneycontrol', 'logo': {'@context': 'https://schema.org', '@type': 'ImageObject', 'width': '247px', 'height': '94px', 'url': 'https://images.moneycontrol.com/images/common/header/logo.png'}, 'url': 'https://www.moneycontrol.com'}}]
+2021-10-17 01:25:35.136 | DEBUG    | __main__:get_tags:48 - Found tags=[<a href="https://www.moneycontrol.com/news/tags/hot-stocks.html" title="Hot Stocks">#Hot Stocks</a>, <a href="https://www.moneycontrol.com/news/tags/podcast.html" title="Podcast">#Podcast</a>, <a href="https://www.moneycontrol.com/news/tags/rohit-singre.html" title="Rohit Singre">#Rohit Singre</a>, <a href="https://www.moneycontrol.com/news/tags/stock-recommendations.html" title="stock recommendations">#stock recommendations</a>, <a href="https://www.moneycontrol.com/news/tags/technical-recommendations.html" title="Technical Recommendations">#Technical Recommendations</a>]
+2021-10-17 01:25:35.151 | DEBUG    | __main__:get_related_stories:64 - Found related_stories=[<li><a href="https://www.moneycontrol.com/news/business/markets/use-rallies-to-short-nifty-top-3-stocks-which-could-give-up-to-12-return-2508529.html" onclick="ga('send', 'event', 'Related News Widget', 'News Consumption', '6822721_Relatednews_');" title="Use rallies to short Nifty; top 3 stocks which could give up to 12% return"><div class="image_block"><img src="https://images.moneycontrol.com/static-mcnews/2018/01/Sensex_Nifty_Traders_Stock-market_.jpg?impolicy=website&amp;width=168&amp;height=118"/></div><div class="content_block">Use rallies to short Nifty; top 3 stocks which could give up to 12% return</div></a></li>, <li><a href="https://www.moneycontrol.com/news/business/markets/buy-on-dips-on-budget-day-3-stocks-which-can-give-up-to-14-return-2496793.html" onclick="ga('send', 'event', 'Related News Widget', 'News Consumption', '6822721_Relatednews_');" title="Buy on dips on Budget Day; 3 stocks which can give up to 14% return"><div class="image_block"><img src="https://images.moneycontrol.com/static-mcnews/2017/03/BUY_stock.jpg?impolicy=website&amp;width=168&amp;height=118"/></div><div class="content_block">Buy on dips on Budget Day; 3 stocks which can give up to 14% return</div></a></li>, <li><a href="https://www.moneycontrol.com/news/business/markets/record-highs-to-continue-for-indian-market-5-stocks-which-could-give-up-to-12-return-2485793.html" onclick="ga('send', 'event', 'Related News Widget', 'News Consumption', '6822721_Relatednews_');" title="Record highs to continue for Indian market; 5 stocks which could give up to 12% return"><div class="image_block"><img src="https://images.moneycontrol.com/static-mcnews/2017/10/BSE_Sensex_Stocks_NSE_Nifty_NSE.jpg?impolicy=website&amp;width=168&amp;height=118"/></div><div class="content_block">Record highs to continue for Indian market; 5 stocks which could give up to 12% return</div></a></li>]
+2021-10-17 01:25:35.155 | ERROR    | __main__:get_stock_symbols:25 - 'NoneType' object has no attribute 'find_all'
+Traceback (most recent call last):
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 188, in <module>
+    scraped_data = get_post(post)
+                   │        └ {'post_date': 'Apr 28, 2021 07:16 AM IST', 'post_title': 'Hot Stocks: Here’s why Laxmi Organics, D-Mart & Welspun Corp can ra...
+                   └ <function get_post at 0x7f09d0d63310>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 155, in get_post
+    moneycontrol_stock_ids = get_stock_symbols(content)
+                             │                 └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+                             └ <function get_stock_symbols at 0x7f09d0e89160>
+
+> File "/home/revant/Desktop/money_control/get_post.py", line 15, in get_stock_symbols
+    soup.find("div", class_="content_wrapper arti-flow")
+    │    └ <function Tag.find at 0x7f09d0e3c430>
+    └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+
+AttributeError: 'NoneType' object has no attribute 'find_all'
+2021-10-17 01:25:35.228 | ERROR    | __main__:get_stock_symbols:26 - <traceback object at 0x7f09cf827f80>
+Traceback (most recent call last):
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 188, in <module>
+    scraped_data = get_post(post)
+                   │        └ {'post_date': 'Apr 28, 2021 07:16 AM IST', 'post_title': 'Hot Stocks: Here’s why Laxmi Organics, D-Mart & Welspun Corp can ra...
+                   └ <function get_post at 0x7f09d0d63310>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 155, in get_post
+    moneycontrol_stock_ids = get_stock_symbols(content)
+                             │                 └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+                             └ <function get_stock_symbols at 0x7f09d0e89160>
+
+> File "/home/revant/Desktop/money_control/get_post.py", line 15, in get_stock_symbols
+    soup.find("div", class_="content_wrapper arti-flow")
+    │    └ <function Tag.find at 0x7f09d0e3c430>
+    └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+
+AttributeError: 'NoneType' object has no attribute 'find_all'
+2021-10-17 01:25:35.287 | DEBUG    | __main__:get_calls:130 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/speciality-chemicals/laxmiorganicindustries/LOI" rel="nofollow">Laxmi Organics: Buy at Rs 195 | LTP: Rs 195 | Target: Rs 230 | Stop Loss: below Rs 178 on closing basis| Upside 17%</a>
+2021-10-17 01:25:35.287 | DEBUG    | __main__:get_call_data:73 - Split into parts=['Laxmi Organics: Buy at Rs 195 ', ' LTP: Rs 195 ', ' Target: Rs 230 ', ' Stop Loss: below\xa0Rs\xa0178 on closing basis', ' Upside 17%']
+2021-10-17 01:25:35.288 | DEBUG    | __main__:get_call_data:82 - Link found = https://www.moneycontrol.com/india/stockpricequote/speciality-chemicals/laxmiorganicindustries/LOI
+2021-10-17 01:25:35.288 | DEBUG    | __main__:get_call_data:104 - call_type='buy' stock_name='Laxmi Organics: Buy at Rs 195 ' ltp='195' target='230' stop_loss='178' upside_potential=' Upside 17%'
+2021-10-17 01:25:35.288 | DEBUG    | __main__:get_calls:130 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/retail/avenuesupermarts/AS19" rel="nofollow">D-Mart: Buy at Rs 2,827 | Target: Rs 3100 | Stop Loss below Rs 2675 on closing basis| Upside 10%</a>
+2021-10-17 01:25:35.289 | DEBUG    | __main__:get_call_data:73 - Split into parts=['D-Mart: Buy at\xa0Rs 2,827 ', ' Target: Rs 3100 ', ' Stop Loss below Rs 2675 on closing basis', ' Upside 10%']
+2021-10-17 01:25:35.289 | DEBUG    | __main__:get_call_data:82 - Link found = https://www.moneycontrol.com/india/stockpricequote/retail/avenuesupermarts/AS19
+2021-10-17 01:25:35.290 | ERROR    | __main__:<module>:192 - list index out of range
+Traceback (most recent call last):
+
+> File "/home/revant/Desktop/money_control/get_post.py", line 188, in <module>
+    scraped_data = get_post(post)
+                   │        └ {'post_date': 'Apr 28, 2021 07:16 AM IST', 'post_title': 'Hot Stocks: Here’s why Laxmi Organics, D-Mart & Welspun Corp can ra...
+                   └ <function get_post at 0x7f09d0d63310>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 157, in get_post
+    calls_data = get_calls(content)
+                 │         └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+                 └ <function get_calls at 0x7f09d0d63280>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 138, in get_calls
+    calls_data.append(get_call_data(call_element))
+    │          │      │             └ <a href="https://www.moneycontrol.com/india/stockpricequote/retail/avenuesupermarts/AS19" rel="nofollow">D-Mart: Buy at Rs 2,...
+    │          │      └ <function get_call_data at 0x7f09d0d631f0>
+    │          └ <method 'append' of 'list' objects>
+    └ [{'call_type': 'buy', 'stock_name': 'Laxmi Organics: Buy at Rs 195 ', 'ltp': '195', 'target': '230', 'stop_loss': '178', 'ups...
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 102, in get_call_data
+    upside_potential = parts[4]
+                       └ ['D-Mart: Buy at\xa0Rs 2,827 ', ' Target: Rs 3100 ', ' Stop Loss below Rs 2675 on closing basis', ' Upside 10%']
+
+IndexError: list index out of range
+2021-10-17 01:25:35.324 | ERROR    | __main__:<module>:193 - <traceback object at 0x7f09cf8285c0>
+Traceback (most recent call last):
+
+> File "/home/revant/Desktop/money_control/get_post.py", line 188, in <module>
+    scraped_data = get_post(post)
+                   │        └ {'post_date': 'Apr 28, 2021 07:16 AM IST', 'post_title': 'Hot Stocks: Here’s why Laxmi Organics, D-Mart & Welspun Corp can ra...
+                   └ <function get_post at 0x7f09d0d63310>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 157, in get_post
+    calls_data = get_calls(content)
+                 │         └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+                 └ <function get_calls at 0x7f09d0d63280>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 138, in get_calls
+    calls_data.append(get_call_data(call_element))
+    │          │      │             └ <a href="https://www.moneycontrol.com/india/stockpricequote/retail/avenuesupermarts/AS19" rel="nofollow">D-Mart: Buy at Rs 2,...
+    │          │      └ <function get_call_data at 0x7f09d0d631f0>
+    │          └ <method 'append' of 'list' objects>
+    └ [{'call_type': 'buy', 'stock_name': 'Laxmi Organics: Buy at Rs 195 ', 'ltp': '195', 'target': '230', 'stop_loss': '178', 'ups...
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 102, in get_call_data
+    upside_potential = parts[4]
+                       └ ['D-Mart: Buy at\xa0Rs 2,827 ', ' Target: Rs 3100 ', ' Stop Loss below Rs 2675 on closing basis', ' Upside 10%']
+
+IndexError: list index out of range

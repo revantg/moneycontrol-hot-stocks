@@ -1,0 +1,99 @@
+2021-10-17 01:25:52.685 | INFO     | request_utils:get:44 - Firing a GET request to https://www.moneycontrol.com/news/business/markets/hot-stocks-aarti-industries-escorts-are-two-trading-ideas-for-the-short-term-6809911.html with headers=None cookies=None query_params=None
+2021-10-17 01:25:53.678 | DEBUG    | request_utils:get:51 - Received response = <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><head><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><meta http-equiv="x-ua-compatible" content="ie=edge"><link href="https://fonts.googleapis.com/css?family=Noto+Serif:400,700" rel="stylesheet" defer>   <meta charset="utf-8"><title>Hot Stocks | Aarti Industries, Escorts Are Two Trading Ideas For The ...
+2021-10-17 01:25:53.847 | DEBUG    | __main__:get_author:56 - Author details: name='Sameet Chavan' designation='Chief Analyst- Technicals & Derivatives|Angel Broking '
+2021-10-17 01:25:53.865 | DEBUG    | __main__:get_metadata:40 - <traceback object at 0x7f09d0bccc40>
+2021-10-17 01:25:53.867 | DEBUG    | __main__:get_metadata:40 - <traceback object at 0x7f09d0e1c280>
+2021-10-17 01:25:53.868 | DEBUG    | __main__:get_metadata:35 - Found metadata=[{'@context': 'https://schema.org', 'mainEntityOfPage': 'https://www.moneycontrol.com/news/business/markets/hot-stocks-aarti-industries-escorts-are-two-trading-ideas-for-the-short-term-6809911.html', '@type': 'NewsArticle', 'url': 'https://www.moneycontrol.com/news/business/markets/hot-stocks-aarti-industries-escorts-are-two-trading-ideas-for-the-short-term-6809911.html', 'articleBody': 'Since we are battling the second wave of COVID-19 in our country, the market is showing a knee-jerk reaction to this.In the initial trades of last week, the selling augmented to challenge the 14,200-mark. Fortunately, the market saw some buying interest at lower levels as we did not spend much time below this key support.A similar sort of resilience was witnessed throughout the remaining part of the week.The market is completely clueless about which way to move in the near term. At higher levels, we are facing some pressure as the battle continues with respect to the pandemic and on the lower side, bulls are not willing to give up.Hence, it has become very difficult to take any kind of directional call on the market.We have been quite cautious on the market and despite Nifty still holding on to a key support zone of 14,200 &ndash; 14,150, we continue to advocate caution till the time some important levels are not surpassed.For Nifty, the immediate resistance zone can be seen around 14,575 &ndash; 14,650. A sustainable move beyond 14,650 would negate the possibility of further correction and resume the upward march.On the other hand, all eyes will be on 14,200&ndash;14,150 and the more it gets challenged, the higher the possibility of breaching it. Below this, Nifty will open up the downside zone of 14,000 &ndash; 13,700.The way the market is attracting buying interest at the support zone, we should have considered this as an accumulation.But there are a couple of observations that are holding us back and they are:(1) The banking index slipped below its rock-solid support of 32,400 and till the time it does not reclaim 32,500 &ndash; 33,000 convincingly, it is likely to be the major dragger.(2) The overall positioning of the Nifty Midcap50 index is completely overlooked by the market participants in general.Last week, we had highlighted the breakdown from head and shoulder pattern in this index and the weekly chart, too, confirmed a lower top lower bottom for the first time in this entire rally since last April.All these factors do not bode well for the bulls and hence, till the time we do not see the negation of these unfavorable developments, one should continue to remain light on positions.Here is one buy and one sell call for the next few days:Aarti Industries | Buy | LTP: Rs 1,465 | Target price: Rs 1,495 | Stop loss: Rs 1,390This stock seems to be in a different league altogether as it never gets affected by the outer world.It has given a phenomenal run over the past seven years now with a whopping returns of nearly 1,400 percent from the sub Rs-100 level.Since the market is not clear about its short-term direction, this can be the safe haven for all sorts of market participants.On the daily chart, we can see a series of higher highs, higher lows and on Friday, we witnessed good traction in the counter, suggesting the continuation of the upward movement.Escorts | Sell | LTP: Rs 1,138.20 | Target price: Rs 1,070 | Stop loss: Rs 1,184This has been one of the weakest counters within the auto space in the last couple of months.We are witnessing a continuous drift in the stock price between brief pauses.The selling momentum seems to have increased in the last few days as the stock prices started falling like a bottomless pit.While prices are trading convincingly below the sacrosanct support zone of 200-day SMA, the weekly chart is exhibiting a bearish head and shoulder pattern, we expect the downward move to extend further.One can look to sell on any bounce towards Rs 1,060 for a target of Rs 1,070. The strict stop loss can be placed at Rs 1,184.(The author is Chief Technical &amp;amp;amp; Derivatives Analyst at Angel Broking)Disclaimer: The views and investment tips expressed by investment experts on Moneycontrol.com are their own and not that of the website or its management. Moneycontrol.com advises users to check with certified experts before taking any investment decisions.', 'articleSection': 'Business', 'headline': 'Hot Stocks | Aarti Industries, Escorts are two trading ideas for the short term', 'description': 'For Nifty, the immediate resistance zone can be seen around 14,575 &ndash; 14,650. A sustainable move beyond 14,650 would negate the possibility of further correction and resume the upward march.', 'author': 'Sameet Chavan', 'datePublished': '2021-04-26T07:18:39+05:30', 'dateModified': '2021-04-26T07:18:39+05:30', 'image': {'@context': 'https://schema.org', '@type': 'ImageObject', 'width': '630px', 'height': '354px', 'url': 'https://images.moneycontrol.com/static-mcnews/2021/04/stock-market-2616931_1280-2-770x433.jpg'}, 'publisher': {'@context': 'https://schema.org', '@type': 'Organization', 'name': 'Moneycontrol', 'logo': {'@context': 'https://schema.org', '@type': 'ImageObject', 'width': '247px', 'height': '94px', 'url': 'https://images.moneycontrol.com/images/common/header/logo.png'}, 'url': 'https://www.moneycontrol.com'}}]
+2021-10-17 01:25:53.880 | DEBUG    | __main__:get_tags:48 - Found tags=[<a href="https://www.moneycontrol.com/news/tags/angel-broking.html" title="Angel Broking">#Angel Broking</a>, <a href="https://www.moneycontrol.com/news/tags/hot-stocks.html" title="Hot Stocks">#Hot Stocks</a>, <a href="https://www.moneycontrol.com/news/tags/markets.html" title="markets">#markets</a>, <a href="https://www.moneycontrol.com/news/tags/nifty.html" title="Nifty">#Nifty</a>, <a href="https://www.moneycontrol.com/news/tags/podcast.html" title="Podcast">#Podcast</a>, <a href="https://www.moneycontrol.com/news/tags/sameet-chavan.html" title="Sameet Chavan">#Sameet Chavan</a>, <a href="https://www.moneycontrol.com/news/tags/stocks-views.html" title="Stocks Views">#Stocks Views</a>]
+2021-10-17 01:25:53.885 | DEBUG    | __main__:get_related_stories:64 - Found related_stories=[<li><a href="https://www.moneycontrol.com/news/business/markets/hot-stocks-here-is-why-you-should-buy-cigniti-tech-and-sell-sbi-life-insurance-7566351.html" onclick="ga('send', 'event', 'Related News Widget', 'News Consumption', '6809911_Relatednews_');" title="Hot Stocks | Here is why you should buy Cigniti Tech and sell SBI Life Insurance"><div class="image_block"><img src="https://images.moneycontrol.com/static-mcnews/2021/10/stocks_sensex_nifty.jpg?impolicy=website&amp;width=168&amp;height=118"/></div><div class="content_block">Hot Stocks | Here is why you should buy Cigniti Tech and sell SBI Life Insurance</div></a></li>, <li><a href="https://www.moneycontrol.com/news/business/markets/hot-stocks-here-is-why-you-should-buy-kirloskar-ferrous-and-sell-tcs-7535271.html" onclick="ga('send', 'event', 'Related News Widget', 'News Consumption', '6809911_Relatednews_');" title="Hot Stocks | Here is why you should buy Kirloskar Ferrous and sell TCS"><div class="image_block"><img src="https://images.moneycontrol.com/static-mcnews/2021/10/sensex_nifty1.jpg?impolicy=website&amp;width=168&amp;height=118"/></div><div class="content_block">Hot Stocks | Here is why you should buy Kirloskar Ferrous and sell TCS</div></a></li>, <li><a href="https://www.moneycontrol.com/news/business/markets/hot-stocks-heres-why-you-should-buy-blue-star-ongc-but-sell-jubilant-foodworks-7508941.html" onclick="ga('send', 'event', 'Related News Widget', 'News Consumption', '6809911_Relatednews_');" title="Hot Stocks | Here's why you should buy Blue Star, ONGC but sell Jubilant FoodWorks"><div class="image_block"><img src="https://images.moneycontrol.com/static-mcnews/2021/09/Business-Market.jpg?impolicy=website&amp;width=168&amp;height=118"/></div><div class="content_block">Hot Stocks | Here's why you should buy Blue Star, ONGC but sell Jubilant FoodWorks</div></a></li>]
+2021-10-17 01:25:53.888 | ERROR    | __main__:get_stock_symbols:25 - 'NoneType' object has no attribute 'find_all'
+Traceback (most recent call last):
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 188, in <module>
+    scraped_data = get_post(post)
+                   │        └ {'post_date': 'Apr 26, 2021 07:18 AM IST', 'post_title': 'Hot Stocks | Aarti Industries, Escorts are two trading ideas for th...
+                   └ <function get_post at 0x7f09d0d63310>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 155, in get_post
+    moneycontrol_stock_ids = get_stock_symbols(content)
+                             │                 └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+                             └ <function get_stock_symbols at 0x7f09d0e89160>
+
+> File "/home/revant/Desktop/money_control/get_post.py", line 15, in get_stock_symbols
+    soup.find("div", class_="content_wrapper arti-flow")
+    │    └ <function Tag.find at 0x7f09d0e3c430>
+    └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+
+AttributeError: 'NoneType' object has no attribute 'find_all'
+2021-10-17 01:25:53.922 | ERROR    | __main__:get_stock_symbols:26 - <traceback object at 0x7f09d0bebec0>
+Traceback (most recent call last):
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 188, in <module>
+    scraped_data = get_post(post)
+                   │        └ {'post_date': 'Apr 26, 2021 07:18 AM IST', 'post_title': 'Hot Stocks | Aarti Industries, Escorts are two trading ideas for th...
+                   └ <function get_post at 0x7f09d0d63310>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 155, in get_post
+    moneycontrol_stock_ids = get_stock_symbols(content)
+                             │                 └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+                             └ <function get_stock_symbols at 0x7f09d0e89160>
+
+> File "/home/revant/Desktop/money_control/get_post.py", line 15, in get_stock_symbols
+    soup.find("div", class_="content_wrapper arti-flow")
+    │    └ <function Tag.find at 0x7f09d0e3c430>
+    └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+
+AttributeError: 'NoneType' object has no attribute 'find_all'
+2021-10-17 01:25:53.950 | DEBUG    | __main__:get_calls:130 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/chemicals/aartiindustries/AI45" rel="nofollow">Aarti Industries | Buy | LTP: Rs 1,465 | Target price: Rs 1,495 | Stop loss: Rs 1,390</a>
+2021-10-17 01:25:53.952 | DEBUG    | __main__:get_call_data:73 - Split into parts=['Aarti Industries ', ' Buy ', ' LTP: Rs 1,465 ', ' Target price: Rs 1,495 ', ' Stop loss: Rs 1,390']
+2021-10-17 01:25:53.952 | DEBUG    | __main__:get_call_data:82 - Link found = https://www.moneycontrol.com/india/stockpricequote/chemicals/aartiindustries/AI45
+2021-10-17 01:25:53.953 | ERROR    | __main__:<module>:192 - list index out of range
+Traceback (most recent call last):
+
+> File "/home/revant/Desktop/money_control/get_post.py", line 188, in <module>
+    scraped_data = get_post(post)
+                   │        └ {'post_date': 'Apr 26, 2021 07:18 AM IST', 'post_title': 'Hot Stocks | Aarti Industries, Escorts are two trading ideas for th...
+                   └ <function get_post at 0x7f09d0d63310>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 157, in get_post
+    calls_data = get_calls(content)
+                 │         └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+                 └ <function get_calls at 0x7f09d0d63280>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 138, in get_calls
+    calls_data.append(get_call_data(call_element))
+    │          │      │             └ <a href="https://www.moneycontrol.com/india/stockpricequote/chemicals/aartiindustries/AI45" rel="nofollow">Aarti Industries |...
+    │          │      └ <function get_call_data at 0x7f09d0d631f0>
+    │          └ <method 'append' of 'list' objects>
+    └ []
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 96, in get_call_data
+    upside_potential = parts[5]
+                       └ ['Aarti Industries ', ' Buy ', ' LTP: Rs 1,465 ', ' Target price: Rs 1,495 ', ' Stop loss: Rs 1,390']
+
+IndexError: list index out of range
+2021-10-17 01:25:53.975 | ERROR    | __main__:<module>:193 - <traceback object at 0x7f09d0bdcf80>
+Traceback (most recent call last):
+
+> File "/home/revant/Desktop/money_control/get_post.py", line 188, in <module>
+    scraped_data = get_post(post)
+                   │        └ {'post_date': 'Apr 26, 2021 07:18 AM IST', 'post_title': 'Hot Stocks | Aarti Industries, Escorts are two trading ideas for th...
+                   └ <function get_post at 0x7f09d0d63310>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 157, in get_post
+    calls_data = get_calls(content)
+                 │         └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+                 └ <function get_calls at 0x7f09d0d63280>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 138, in get_calls
+    calls_data.append(get_call_data(call_element))
+    │          │      │             └ <a href="https://www.moneycontrol.com/india/stockpricequote/chemicals/aartiindustries/AI45" rel="nofollow">Aarti Industries |...
+    │          │      └ <function get_call_data at 0x7f09d0d631f0>
+    │          └ <method 'append' of 'list' objects>
+    └ []
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 96, in get_call_data
+    upside_potential = parts[5]
+                       └ ['Aarti Industries ', ' Buy ', ' LTP: Rs 1,465 ', ' Target price: Rs 1,495 ', ' Stop loss: Rs 1,390']
+
+IndexError: list index out of range

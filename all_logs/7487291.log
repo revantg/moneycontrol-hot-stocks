@@ -1,0 +1,172 @@
+2021-10-17 00:45:33.589 | INFO     | request_utils:get:44 - Firing a GET request to https://www.moneycontrol.com/news/business/markets/hot-stocks-you-can-buy-rpg-life-science-beml-but-sell-granules-india-heres-why-7487291.html with headers=None cookies=None query_params=None
+2021-10-17 00:45:34.275 | DEBUG    | request_utils:get:51 - Received response = <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><head><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><meta http-equiv="x-ua-compatible" content="ie=edge"><link href="https://fonts.googleapis.com/css?family=Noto+Serif:400,700" rel="stylesheet" defer>   <meta charset="utf-8"><title>Hot Stocks | Buy RPG Life Science, BEML, But Sell Granules India. Her...
+2021-10-17 00:45:34.534 | DEBUG    | __main__:get_author:55 - Author details: name=('Vinay Rajani',) designation=('Technical Research Analyst|HDFC Securities ',)
+2021-10-17 00:45:34.549 | DEBUG    | __main__:get_metadata:40 - <traceback object at 0x7fb51694bc00>
+2021-10-17 00:45:34.549 | DEBUG    | __main__:get_metadata:40 - <traceback object at 0x7fb5165f4e80>
+2021-10-17 00:45:34.553 | DEBUG    | __main__:get_metadata:35 - Found metadata=[{'@context': 'https://schema.org', 'mainEntityOfPage': 'https://www.moneycontrol.com/news/business/markets/hot-stocks-you-can-buy-rpg-life-science-beml-but-sell-granules-india-heres-why-7487291.html', '@type': 'NewsArticle', 'url': 'https://www.moneycontrol.com/news/business/markets/hot-stocks-you-can-buy-rpg-life-science-beml-but-sell-granules-india-heres-why-7487291.html', 'articleBody': 'Nifty has fallen more than 2 percent from its recent top of 17,792.95. The index has violated the short-term support of its five-day exponential moving average (EMA) but is still maintaining its level above 10 and 20-day EMA supports.Higher tops and higher bottoms are also well intact on the short-term charts. RSI on the daily chart has exited the overbought zone and crossed the signal line on the downside, but there is no sign of negative divergence as yet for Nifty and Bank Nifty.Previous swing low support is placed at 17,254 which can act as immediate support for the Nifty.RSI getting into the overbought zone is not a sign of trend reversal. We should rather see it as to whether the recent upswing has relative strength in it or not.If Nifty makes a new high and RSI fails to make a new high then we can consider it as a bearish trend reversal signal.Looking at the Nifty and Bank Nifty chart, it is clearly visible that both price and oscillator have been forming higher tops and there is no divergence between them.So, we can see the ongoing fall in the market as a correction rather than a reversal. Corrections are part of the bull market and in bull market corrections usually remain sharp and swift.In the current market condition, we expect the IT and FMCG sectors to outperform while sectors like pharma and metal may still remain under pressure.Most of the derivative stock closed on a weak wicket and they are expected to extend the correction in the coming sessions.The index could limit its fall to 1-2 percent, but stocks could have a bigger negative impact in the short term.The Indian equity market is among the top-performing markets in the world if we normalise the performance since March 2020 bottom.However, continuous weakness in global markets could hurt market sentiment.On September 20, India VIX surged almost 15 percent to close at 17.5 odd levels. This Index is also known as the fear index.India VIX has reached the highest level since May 27, 2021, which indicates the rising volatility in Nifty option premiums and bearish sentiments.We expect the ongoing correction to extend towards 17,250 and 17,000 levels. However, as the primary trend of the market is still bullish, positional traders can wait for these support levels to enter fresh long positions.Here are two buy and one sell calls for the next 2-3 weeks:RPG Life Science | Buy | LTP: Rs 684.30 | Target price: Rs 799 | Stop loss: Rs 620 | Upside: 17%This month, this stock has surpassed the previous all-time high of Rs 579 and has been sustaining above that level.It has entered into a bullish momentum zone where the gap between short and medium-term moving averages has started to widen.It has been finding support at every decline and has been showing resilient moves in the weak market conditions.On September 20, it hit a new all-time high. There is a big jump in volumes along with the price rise in the last three months.BEML | Buy | LTP: Rs 1,396.90 | Target price: Rs 1,575 | Stop loss: Rs 1,260 | Upside: 13%This stock has been correcting along with the market for the last three sessions.The primary trend of the stock is bullish as it broke out from the symmetrical triangle in the week ended September 17, 2021.It is placed above its 20, 50 and 100-day moving averages. Indicator and oscillator setup has been holding bullish on weekly charts.Short-term moving averages are placed above medium to long-term moving averages. The stock has been forming higher tops and higher bottoms on weekly and monthly charts.Granules India | Sell | LTP: Rs 320.35 | Target price: Rs 298 | Stop loss: Rs 337 | Downside: 7%This stock has been trading below its 20, 50, 100 and 200-day moving averages. It has been forming lower tops and lower bottoms on the daily chart.The indicator and oscillator setup has been showing a bearish trend on weekly charts. Short-term moving averages are placed below medium-term moving averages.(The author is a technical research analyst at HDFC securities)Disclaimer: The views and investment tips expressed by investment experts on Moneycontrol.com are their own and not that of the website or its management. Moneycontrol.com advises users to check with certified experts before taking any investment decisions.', 'articleSection': 'Business', 'headline': "Hot Stocks | Buy RPG Life Science, BEML, but sell Granules India. Here's why", 'description': 'Previous swing low support is placed at 17,254 which can act as immediate support for the Nifty.', 'author': 'Vinay Rajani', 'datePublished': '2021-09-21T07:39:51+05:30', 'dateModified': '2021-09-21T07:43:32+05:30', 'image': {'@context': 'https://schema.org', '@type': 'ImageObject', 'width': '630px', 'height': '354px', 'url': 'https://images.moneycontrol.com/static-mcnews/2021/09/shutterstock_1050045188-770x433.jpg'}, 'publisher': {'@context': 'https://schema.org', '@type': 'Organization', 'name': 'Moneycontrol', 'logo': {'@context': 'https://schema.org', '@type': 'ImageObject', 'width': '247px', 'height': '94px', 'url': 'https://images.moneycontrol.com/images/common/header/logo.png'}, 'url': 'https://www.moneycontrol.com'}}]
+2021-10-17 00:45:34.562 | DEBUG    | __main__:get_tags:48 - Found tags=[<a href="https://www.moneycontrol.com/news/tags/hot-stocks.html" title="Hot Stocks">#Hot Stocks</a>, <a href="https://www.moneycontrol.com/news/tags/markets.html" title="markets">#markets</a>, <a href="https://www.moneycontrol.com/news/tags/nifty.html" title="Nifty">#Nifty</a>, <a href="https://www.moneycontrol.com/news/tags/podcast.html" title="Podcast">#Podcast</a>, <a href="https://www.moneycontrol.com/news/tags/stocks-views.html" title="Stocks Views">#Stocks Views</a>]
+2021-10-17 00:45:34.580 | DEBUG    | __main__:get_related_stories:63 - Found related_stories=[<li><a href="https://www.moneycontrol.com/news/business/markets/hot-stocks-gujarat-narmada-valley-gsfc-and-tinplate-company-can-give-double-digit-returns-in-short-term-7542981.html" onclick="ga('send', 'event', 'Related News Widget', 'News Consumption', '7487291_Relatednews_');" title="Hot Stocks | Gujarat Narmada Valley, GSFC and Tinplate Company can give double-digit returns in short term"><div class="image_block"><img src="https://images.moneycontrol.com/static-mcnews/2021/03/stock-shares_shutterstock_572821747.jpg?impolicy=website&amp;width=168&amp;height=118"/></div><div class="content_block">Hot Stocks | Gujarat Narmada Valley, GSFC and Tinplate Company can give double-digit returns in shor...</div></a></li>, <li><a href="https://www.moneycontrol.com/news/business/markets/hot-stocks-century-textile-vip-industries-can-fin-homes-can-give-up-to-13-return-in-short-term-7436681.html" onclick="ga('send', 'event', 'Related News Widget', 'News Consumption', '7487291_Relatednews_');" title="Hot Stocks | Century Textile, VIP Industries, Can Fin Homes can give up to 13% return in short term"><div class="image_block"><img src="https://images.moneycontrol.com/static-mcnews/2021/08/shutterstock_1153099931.jpg?impolicy=website&amp;width=168&amp;height=118"/></div><div class="content_block">Hot Stocks | Century Textile, VIP Industries, Can Fin Homes can give up to 13% return in short term</div></a></li>, <li><a href="https://www.moneycontrol.com/news/business/markets/hot-stocks-schaeffler-india-lt-technology-services-britannia-industries-can-give-up-to-17-return-in-short-term-7375541.html" onclick="ga('send', 'event', 'Related News Widget', 'News Consumption', '7487291_Relatednews_');" title="Hot Stocks | Schaeffler India, L&amp;T Technology and Britannia can give double-digit returns in short term"><div class="image_block"><img src="https://images.moneycontrol.com/static-mcnews/2021/08/shutterstock_1050045188-1.jpg?impolicy=website&amp;width=168&amp;height=118"/></div><div class="content_block">Hot Stocks | Schaeffler India, L&amp;T Technology and Britannia can give double-digit returns in sho...</div></a></li>]
+2021-10-17 00:45:34.582 | ERROR    | __main__:get_stock_symbols:25 - 'NoneType' object has no attribute 'find_all'
+Traceback (most recent call last):
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 178, in <module>
+    scraped_data = get_post(post)
+                   │        └ {'post_date': 'Sep 21, 2021 07:39 AM IST', 'post_title': "Hot Stocks | Buy RPG Life Science, BEML, but sell Granules India. H...
+                   └ <function get_post at 0x7fb516a30310>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 145, in get_post
+    moneycontrol_stock_ids = get_stock_symbols(content)
+                             │                 └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+                             └ <function get_stock_symbols at 0x7fb516b73160>
+
+> File "/home/revant/Desktop/money_control/get_post.py", line 15, in get_stock_symbols
+    soup.find("div", class_="content_wrapper arti-flow")
+    │    └ <function Tag.find at 0x7fb516b2e430>
+    └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+
+AttributeError: 'NoneType' object has no attribute 'find_all'
+2021-10-17 00:45:34.606 | ERROR    | __main__:get_stock_symbols:26 - <traceback object at 0x7fb516a3cf40>
+Traceback (most recent call last):
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 178, in <module>
+    scraped_data = get_post(post)
+                   │        └ {'post_date': 'Sep 21, 2021 07:39 AM IST', 'post_title': "Hot Stocks | Buy RPG Life Science, BEML, but sell Granules India. H...
+                   └ <function get_post at 0x7fb516a30310>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 145, in get_post
+    moneycontrol_stock_ids = get_stock_symbols(content)
+                             │                 └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+                             └ <function get_stock_symbols at 0x7fb516b73160>
+
+> File "/home/revant/Desktop/money_control/get_post.py", line 15, in get_stock_symbols
+    soup.find("div", class_="content_wrapper arti-flow")
+    │    └ <function Tag.find at 0x7fb516b2e430>
+    └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+
+AttributeError: 'NoneType' object has no attribute 'find_all'
+2021-10-17 00:45:34.675 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/cigarettes/itc/ITC" onclick='GAEventTracker("SEARCHUSAGE", "MCTRENDS", "STKCLICK" )' title="ITC">ITC <span>INE154A01025, ITC, 500875</span></a>
+2021-10-17 00:45:34.675 | DEBUG    | __main__:get_call_data:71 - Split into parts=['ITC\xa0INE154A01025, ITC, 500875']
+2021-10-17 00:45:34.675 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=['ITC\xa0INE154A01025, ITC, 500875']
+2021-10-17 00:45:34.675 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/auto-lcvs-hcvs/tatamotors/TM03" onclick='GAEventTracker("SEARCHUSAGE", "MCTRENDS", "STKCLICK" )' title="Tata Motors">Tata Motors <span>INE155A01022, TATAMOTORS, 500570</span></a>
+2021-10-17 00:45:34.675 | DEBUG    | __main__:get_call_data:71 - Split into parts=['Tata Motors\xa0INE155A01022, TATAMOTORS, 500570']
+2021-10-17 00:45:34.676 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=['Tata Motors\xa0INE155A01022, TATAMOTORS, 500570']
+2021-10-17 00:45:34.676 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/miscellaneous/tatamotorsltd-dvr/TATAM57000" onclick='GAEventTracker("SEARCHUSAGE", "MCTRENDS", "STKCLICK" )' title="TML-D">TML-D <span>IN9155A01020, TATAMTRDVR, 570001</span></a>
+2021-10-17 00:45:34.677 | DEBUG    | __main__:get_call_data:71 - Split into parts=['TML-D\xa0IN9155A01020, TATAMTRDVR, 570001']
+2021-10-17 00:45:34.677 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=['TML-D\xa0IN9155A01020, TATAMTRDVR, 570001']
+2021-10-17 00:45:34.677 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/power-generationdistribution/tatapowercompany/TPC" onclick='GAEventTracker("SEARCHUSAGE", "MCTRENDS", "STKCLICK" )' title="Tata Power">Tata Power <span>INE245A01021, TATAPOWER, 500400</span></a>
+2021-10-17 00:45:34.677 | DEBUG    | __main__:get_call_data:71 - Split into parts=['Tata Power\xa0INE245A01021, TATAPOWER, 500400']
+2021-10-17 00:45:34.678 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=['Tata Power\xa0INE245A01021, TATAPOWER, 500400']
+2021-10-17 00:45:34.678 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/miscellaneous/irctc-indianrailwaycateringtourismcorp/IRC" onclick='GAEventTracker("SEARCHUSAGE", "MCTRENDS", "STKCLICK" )' title="IRCTC">IRCTC <span>INE335Y01012, IRCTC, 542830</span></a>
+2021-10-17 00:45:34.678 | DEBUG    | __main__:get_call_data:71 - Split into parts=['IRCTC\xa0INE335Y01012, IRCTC, 542830']
+2021-10-17 00:45:34.679 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=['IRCTC\xa0INE335Y01012, IRCTC, 542830']
+2021-10-17 00:45:34.679 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/cigarettes/itc/ITC" onclick='GAEventTracker("SEARCHUSAGE", "MCTRENDS", "STKCLICK" )' title="ITC">ITC <span>INE154A01025, ITC, 500875</span></a>
+2021-10-17 00:45:34.681 | DEBUG    | __main__:get_call_data:71 - Split into parts=['ITC\xa0INE154A01025, ITC, 500875']
+2021-10-17 00:45:34.683 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=['ITC\xa0INE154A01025, ITC, 500875']
+2021-10-17 00:45:34.688 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/auto-lcvs-hcvs/tatamotors/TM03" onclick='GAEventTracker("SEARCHUSAGE", "MCTRENDS", "STKCLICK" )' title="Tata Motors">Tata Motors <span>INE155A01022, TATAMOTORS, 500570</span></a>
+2021-10-17 00:45:34.689 | DEBUG    | __main__:get_call_data:71 - Split into parts=['Tata Motors\xa0INE155A01022, TATAMOTORS, 500570']
+2021-10-17 00:45:34.690 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=['Tata Motors\xa0INE155A01022, TATAMOTORS, 500570']
+2021-10-17 00:45:34.691 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/miscellaneous/tatamotorsltd-dvr/TATAM57000" onclick='GAEventTracker("SEARCHUSAGE", "MCTRENDS", "STKCLICK" )' title="TML-D">TML-D <span>IN9155A01020, TATAMTRDVR, 570001</span></a>
+2021-10-17 00:45:34.693 | DEBUG    | __main__:get_call_data:71 - Split into parts=['TML-D\xa0IN9155A01020, TATAMTRDVR, 570001']
+2021-10-17 00:45:34.694 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=['TML-D\xa0IN9155A01020, TATAMTRDVR, 570001']
+2021-10-17 00:45:34.696 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/power-generationdistribution/tatapowercompany/TPC" onclick='GAEventTracker("SEARCHUSAGE", "MCTRENDS", "STKCLICK" )' title="Tata Power">Tata Power <span>INE245A01021, TATAPOWER, 500400</span></a>
+2021-10-17 00:45:34.696 | DEBUG    | __main__:get_call_data:71 - Split into parts=['Tata Power\xa0INE245A01021, TATAPOWER, 500400']
+2021-10-17 00:45:34.699 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=['Tata Power\xa0INE245A01021, TATAPOWER, 500400']
+2021-10-17 00:45:34.707 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/miscellaneous/irctc-indianrailwaycateringtourismcorp/IRC" onclick='GAEventTracker("SEARCHUSAGE", "MCTRENDS", "STKCLICK" )' title="IRCTC">IRCTC <span>INE335Y01012, IRCTC, 542830</span></a>
+2021-10-17 00:45:34.710 | DEBUG    | __main__:get_call_data:71 - Split into parts=['IRCTC\xa0INE335Y01012, IRCTC, 542830']
+2021-10-17 00:45:34.710 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=['IRCTC\xa0INE335Y01012, IRCTC, 542830']
+2021-10-17 00:45:34.712 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/rpglifesciences/RPG05" rel="nofollow">RPG Life Science | Buy | LTP: Rs 684.30 | Target price: Rs 799 | Stop loss: Rs 620 | Upside: 17%</a>
+2021-10-17 00:45:34.714 | DEBUG    | __main__:get_call_data:71 - Split into parts=['RPG Life Science ', ' Buy ', ' LTP: Rs 684.30 ', ' Target price: Rs 799 ', ' Stop loss: Rs 620 ', ' Upside: 17%']
+2021-10-17 00:45:34.716 | DEBUG    | __main__:get_call_data:80 - Link found = https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/rpglifesciences/RPG05
+2021-10-17 00:45:34.717 | DEBUG    | __main__:get_call_data:102 - call_type='buy' stock_name='RPG Life Science ' ltp='684.30' target='799' stop_loss='620' upside_potential=' Upside: 17%'
+2021-10-17 00:45:34.717 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/infrastructure-general/beml/BEM03" rel="nofollow">BEML | Buy | LTP: Rs 1,396.90 | Target price: Rs 1,575 | Stop loss: Rs 1,260 | Upside: 13%</a>
+2021-10-17 00:45:34.718 | DEBUG    | __main__:get_call_data:71 - Split into parts=['BEML ', ' Buy ', ' LTP: Rs 1,396.90 ', ' Target price: Rs 1,575 ', ' Stop loss: Rs 1,260 ', ' Upside: 13%']
+2021-10-17 00:45:34.718 | DEBUG    | __main__:get_call_data:80 - Link found = https://www.moneycontrol.com/india/stockpricequote/infrastructure-general/beml/BEM03
+2021-10-17 00:45:34.718 | DEBUG    | __main__:get_call_data:102 - call_type='buy' stock_name='BEML ' ltp='1396.90' target='1575' stop_loss='1260' upside_potential=' Upside: 13%'
+2021-10-17 00:45:34.719 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/granulesindia/GI25" rel="nofollow">Granules India | Sell | LTP: Rs 320.35 | Target price: Rs 298 | Stop loss: Rs 337 | Downside: 7%</a>
+2021-10-17 00:45:34.719 | DEBUG    | __main__:get_call_data:71 - Split into parts=['Granules India ', ' Sell ', ' LTP: Rs 320.35 ', ' Target price: Rs 298 ', ' Stop loss: Rs 337 ', ' Downside: 7%']
+2021-10-17 00:45:34.719 | DEBUG    | __main__:get_call_data:80 - Link found = https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/granulesindia/GI25
+2021-10-17 00:45:34.720 | DEBUG    | __main__:get_call_data:102 - call_type='sell' stock_name='Granules India ' ltp='320.35' target='298' stop_loss='337' upside_potential=' Downside: 7%'
+2021-10-17 00:45:34.720 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/" title="Stocks">Stocks</a>
+2021-10-17 00:45:34.720 | DEBUG    | __main__:get_call_data:71 - Split into parts=['Stocks']
+2021-10-17 00:45:34.721 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=['Stocks']
+2021-10-17 00:45:34.721 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/A" title="A"> A</a>
+2021-10-17 00:45:34.721 | DEBUG    | __main__:get_call_data:71 - Split into parts=[' A']
+2021-10-17 00:45:34.722 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=[' A']
+2021-10-17 00:45:34.722 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/B" title="B"> B</a>
+2021-10-17 00:45:34.722 | DEBUG    | __main__:get_call_data:71 - Split into parts=[' B']
+2021-10-17 00:45:34.722 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=[' B']
+2021-10-17 00:45:34.723 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/C" title="C"> C</a>
+2021-10-17 00:45:34.727 | DEBUG    | __main__:get_call_data:71 - Split into parts=[' C']
+2021-10-17 00:45:34.728 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=[' C']
+2021-10-17 00:45:34.728 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/D" title="D"> D</a>
+2021-10-17 00:45:34.729 | DEBUG    | __main__:get_call_data:71 - Split into parts=[' D']
+2021-10-17 00:45:34.729 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=[' D']
+2021-10-17 00:45:34.730 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/E" title="E"> E</a>
+2021-10-17 00:45:34.730 | DEBUG    | __main__:get_call_data:71 - Split into parts=[' E']
+2021-10-17 00:45:34.730 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=[' E']
+2021-10-17 00:45:34.731 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/F" title="F"> F</a>
+2021-10-17 00:45:34.732 | DEBUG    | __main__:get_call_data:71 - Split into parts=[' F']
+2021-10-17 00:45:34.732 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=[' F']
+2021-10-17 00:45:34.732 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/G" title="G"> G</a>
+2021-10-17 00:45:34.734 | DEBUG    | __main__:get_call_data:71 - Split into parts=[' G']
+2021-10-17 00:45:34.739 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=[' G']
+2021-10-17 00:45:34.744 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/H" title="H"> H</a>
+2021-10-17 00:45:34.745 | DEBUG    | __main__:get_call_data:71 - Split into parts=[' H']
+2021-10-17 00:45:34.746 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=[' H']
+2021-10-17 00:45:34.747 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/I" title="I"> I</a>
+2021-10-17 00:45:34.749 | DEBUG    | __main__:get_call_data:71 - Split into parts=[' I']
+2021-10-17 00:45:34.750 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=[' I']
+2021-10-17 00:45:34.751 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/J" title="J"> J</a>
+2021-10-17 00:45:34.753 | DEBUG    | __main__:get_call_data:71 - Split into parts=[' J']
+2021-10-17 00:45:34.754 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=[' J']
+2021-10-17 00:45:34.754 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/K" title="K"> K</a>
+2021-10-17 00:45:34.754 | DEBUG    | __main__:get_call_data:71 - Split into parts=[' K']
+2021-10-17 00:45:34.754 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=[' K']
+2021-10-17 00:45:34.755 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/L" title="L"> L</a>
+2021-10-17 00:45:34.755 | DEBUG    | __main__:get_call_data:71 - Split into parts=[' L']
+2021-10-17 00:45:34.755 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=[' L']
+2021-10-17 00:45:34.756 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/M" title="M"> M</a>
+2021-10-17 00:45:34.756 | DEBUG    | __main__:get_call_data:71 - Split into parts=[' M']
+2021-10-17 00:45:34.756 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=[' M']
+2021-10-17 00:45:34.757 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/N" title="N"> N</a>
+2021-10-17 00:45:34.757 | DEBUG    | __main__:get_call_data:71 - Split into parts=[' N']
+2021-10-17 00:45:34.757 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=[' N']
+2021-10-17 00:45:34.758 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/O" title="O"> O</a>
+2021-10-17 00:45:34.758 | DEBUG    | __main__:get_call_data:71 - Split into parts=[' O']
+2021-10-17 00:45:34.759 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=[' O']
+2021-10-17 00:45:34.762 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/P" title="P"> P</a>
+2021-10-17 00:45:34.764 | DEBUG    | __main__:get_call_data:71 - Split into parts=[' P']
+2021-10-17 00:45:34.766 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=[' P']
+2021-10-17 00:45:34.768 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/Q" title="Q"> Q</a>
+2021-10-17 00:45:34.769 | DEBUG    | __main__:get_call_data:71 - Split into parts=[' Q']
+2021-10-17 00:45:34.769 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=[' Q']
+2021-10-17 00:45:34.769 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/R" title="R"> R</a>
+2021-10-17 00:45:34.770 | DEBUG    | __main__:get_call_data:71 - Split into parts=[' R']
+2021-10-17 00:45:34.770 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=[' R']
+2021-10-17 00:45:34.770 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/S" title="S"> S</a>
+2021-10-17 00:45:34.771 | DEBUG    | __main__:get_call_data:71 - Split into parts=[' S']
+2021-10-17 00:45:34.771 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=[' S']
+2021-10-17 00:45:34.772 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/T" title="T"> T</a>
+2021-10-17 00:45:34.772 | DEBUG    | __main__:get_call_data:71 - Split into parts=[' T']
+2021-10-17 00:45:34.772 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=[' T']
+2021-10-17 00:45:34.772 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/U" title="U"> U</a>
+2021-10-17 00:45:34.773 | DEBUG    | __main__:get_call_data:71 - Split into parts=[' U']
+2021-10-17 00:45:34.773 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=[' U']
+2021-10-17 00:45:34.774 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/V" title="V"> V</a>
+2021-10-17 00:45:34.775 | DEBUG    | __main__:get_call_data:71 - Split into parts=[' V']
+2021-10-17 00:45:34.775 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=[' V']
+2021-10-17 00:45:34.777 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/W" title="W"> W</a>
+2021-10-17 00:45:34.779 | DEBUG    | __main__:get_call_data:71 - Split into parts=[' W']
+2021-10-17 00:45:34.780 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=[' W']
+2021-10-17 00:45:34.780 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/X" title="X"> X</a>
+2021-10-17 00:45:34.782 | DEBUG    | __main__:get_call_data:71 - Split into parts=[' X']
+2021-10-17 00:45:34.784 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=[' X']
+2021-10-17 00:45:34.784 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/Y" title="Y"> Y</a>
+2021-10-17 00:45:34.785 | DEBUG    | __main__:get_call_data:71 - Split into parts=[' Y']
+2021-10-17 00:45:34.785 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=[' Y']
+2021-10-17 00:45:34.786 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/Z" title="Z"> Z</a>
+2021-10-17 00:45:34.786 | DEBUG    | __main__:get_call_data:71 - Split into parts=[' Z']
+2021-10-17 00:45:34.788 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=[' Z']
+2021-10-17 00:45:34.790 | DEBUG    | __main__:get_calls:121 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/others" title="Others">Others</a>
+2021-10-17 00:45:34.792 | DEBUG    | __main__:get_call_data:71 - Split into parts=['Others']
+2021-10-17 00:45:34.793 | DEBUG    | __main__:get_call_data:73 - Did not find any call data. Split parts <= 2. parts=['Others']

@@ -1,0 +1,29 @@
+[
+    {
+        "name": "A18ID",
+        "value": "1631922061516.487642",
+        "domain": "www.moneycontrol.com",
+        "hostOnly": true,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "no_restriction",
+        "session": false,
+        "firstPartyDomain": "",
+        "expirationDate": 1694994061,
+        "storeId": null
+    },
+    {
+        "name": "PHPSESSID",
+        "value": "11ek442vvaui97s013432s5uv4",
+        "domain": ".moneycontrol.com",
+        "hostOnly": false,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "no_restriction",
+        "session": true,
+        "firstPartyDomain": "",
+        "storeId": null
+    }
+]

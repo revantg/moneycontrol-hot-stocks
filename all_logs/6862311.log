@@ -1,0 +1,103 @@
+2021-10-17 01:24:57.830 | INFO     | request_utils:get:44 - Firing a GET request to https://www.moneycontrol.com/news/business/markets/hot-stocks-bhel-bel-ajanta-pharma-top-stocks-to-buy-for-short-term-6862311.html with headers=None cookies=None query_params=None
+2021-10-17 01:24:58.523 | DEBUG    | request_utils:get:51 - Received response = <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><head><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><meta http-equiv="x-ua-compatible" content="ie=edge"><link href="https://fonts.googleapis.com/css?family=Noto+Serif:400,700" rel="stylesheet" defer>   <meta charset="utf-8"><title>Hot Stocks: BHEL, BEL & Ajanta Pharma Top Stocks To Buy For Short Ter...
+2021-10-17 01:24:58.717 | DEBUG    | __main__:get_author:56 - Author details: name='Karan Pai' designation='Technical Analyst - Equities|GEPL Capital '
+2021-10-17 01:24:58.732 | DEBUG    | __main__:get_metadata:40 - <traceback object at 0x7f09d0ad5d40>
+2021-10-17 01:24:58.733 | DEBUG    | __main__:get_metadata:40 - <traceback object at 0x7f09d090af00>
+2021-10-17 01:24:58.733 | DEBUG    | __main__:get_metadata:35 - Found metadata=[{'@context': 'https://schema.org', 'mainEntityOfPage': 'https://www.moneycontrol.com/news/business/markets/hot-stocks-bhel-bel-ajanta-pharma-top-stocks-to-buy-for-short-term-6862311.html', '@type': 'NewsArticle', 'url': 'https://www.moneycontrol.com/news/business/markets/hot-stocks-bhel-bel-ajanta-pharma-top-stocks-to-buy-for-short-term-6862311.html', 'articleBody': "Nifty50 for the past 2 weeks has been hovering around the 20-week SMA, after facing rejection near the 15,050 mark. On the options open interest front (May 12 expiry), huge participation and open interest addition are seen in the 14500 Puts.On the call side, participation is seen in the 15000 call contracts. Thus, going ahead, we can expect the broader range of the Nifty to be between 14500-15000 levels.On the indicator's front, the RSI plotted on the weekly time frame can be seen going flattish, pointing towards the ongoing tug of war between the bulls and the bears.Going ahead, 15000-15050 will act as a key resistance level, If the prices break above the 15050 marks, we might see the index move higher towards the 15292-15300 (Resistance cluster level).On the downside, the 14400 (Multiple touchpoint) is the level to watch out for, if the index manages to move below this level, we might see the index move lower towards the 14230 (23.8% retracement level of the rise from 10790-15431) mark and eventually towards the 14151 (3 week low).To sum it all up, the index seems to be consolidating, we expect the range to be 14400-15000 levels.Here is a list of stocks for the next 3-4 weeks:BHEL: Buy | LTP: Rs 57 | Target: Rs 66-72 | Stop Loss: Rs 52 | Upside 26%BHEL, for the past 3 weeks, has been forming a higher high higher low pattern after testing a low of Rs 43.On May 6, the prices tested a fresh 52-week high. The up-move was backed by above-average volume, indicating participation as the prices move higher.On the indicator front, the RSI plotted on the daily and weekly time frame can be seen placed above the 50 mark and moving higher, indicating the presence of momentum in the bullish trend.Going ahead the&nbsp;Rs&nbsp;58 (Multiple touchpoint level) will act as a key resistance level, if the prices manage to break above this level, we might see the prices move higher and test the&nbsp;Rs&nbsp;66 (78.6% extension level of the rise from&nbsp;Rs&nbsp;26.95-56.50 projected from&nbsp;Rs&nbsp;43) and eventually towards the&nbsp;Rs&nbsp;72 (100% extension level of the rise from&nbsp;Rs&nbsp;26.95-56.50 projected from&nbsp;Rs&nbsp;43).The key level to watch for on the downside are&nbsp;Rs&nbsp;52 (4 weeks high) followed by&nbsp;Rs&nbsp;42 (recent swing low). Currently, the stock seems to be witnessing a price volume break out, we expect the prices to move higher and test the&nbsp;Rs&nbsp;66 followed&nbsp;Rs&nbsp;by 72 mark.BEL: LTP: 141 | Target: Rs 154 | Stop Loss: Rs 129 | Upside 9%BEL for the past couple of weeks has been bouncing off the 20-Day SMA and moving higher. On May 6, the stock gained momentum and tested a fresh 7-week high.The up-move was backed by rising volume, indicating participation as the prices move higher. On the indicator front, the RSI plotted on the weekly and daily time frame can be seen placed above the 50 mark and moving higher, indicating the presence of momentum in the bullish trend.Going ahead, we can expect the prices to move higher and test Rs&nbsp;143 (Multiple touchpoint level) followed by&nbsp;Rs&nbsp;154 (March 2021 high) and eventually towards the&nbsp;Rs&nbsp;171 (Multiple touchpoint level).The key level to watch for on the downside is&nbsp;Rs&nbsp;129 (20 Day SMA) followed by&nbsp;Rs&nbsp;115 (recent swing low).The price action and the technical parameters mentioned above points towards the possibility of the prices moving higher and testing the&nbsp;Rs&nbsp;143 marks, if the prices breach above this level, we can expect further up move towards&nbsp;Rs&nbsp;154.Our bullish view will be negated if the prices move below&nbsp;Rs&nbsp;129. If the prices manage to sustain below this level, we might see the stock move lower towards the&nbsp;Rs&nbsp;115 marks.Ajanta Pharma: LTP: Rs 1997 | Target: Rs 2125 | Stop Loss: Rs 1860 | Upside 6%Ajanta Pharma for the past 4 weeks has been forming a higher high higher low pattern.On the daily time frame, we can see that the stock gained momentum and tested a 52-week high on May 6, this up move was backed by rising volume indicating participation as the prices moved higher.On the indicator front, RSI plotted on multiple time frames is placed above the 50 levels and is moving higher, indicating the presence of strong bullish momentum.Going ahead the key resistance is placed at&nbsp;Rs&nbsp;2125 (Sept 2016 high), followed by&nbsp;Rs&nbsp;2274 (127% extension level of the rise from&nbsp;Rs&nbsp;1424.50-1884 projected from&nbsp;Rs&nbsp;1690).The key level to watch for on the downside is 1860 (multiple touch point) followed by&nbsp;Rs&nbsp;1690 (Recent swing low).Looking at the prices action and the technical parameters mentioned above we expect the prices to move higher towards&nbsp;Rs&nbsp;2125 followed by&nbsp;Rs&nbsp;2274.Our bullish view will be negated if the prices move below 1860, beyond which we might see the prices move lower and test the 1690 mark.Disclaimer: The views and investment tips expressed by the investment expert on Moneycontrol.com are his own and not that of the website or its management. Moneycontrol.com advises users to check with certified experts before taking any investment decisions.", 'articleSection': 'Business', 'headline': 'Hot Stocks: BHEL, BEL &amp;amp; Ajanta Pharma top stocks to buy for short term', 'description': 'Going ahead, 15000-15050 will act as a key resistance level. If the prices break above the 15050 marks, we might see the index move higher towards the 15292-15300.', 'author': 'Karan Pai', 'datePublished': '2021-05-07T07:39:39+05:30', 'dateModified': '2021-05-07T07:59:08+05:30', 'image': {'@context': 'https://schema.org', '@type': 'ImageObject', 'width': '630px', 'height': '354px', 'url': 'https://images.moneycontrol.com/static-mcnews/2021/03/Stocks1-1-770x433.jpg'}, 'publisher': {'@context': 'https://schema.org', '@type': 'Organization', 'name': 'Moneycontrol', 'logo': {'@context': 'https://schema.org', '@type': 'ImageObject', 'width': '247px', 'height': '94px', 'url': 'https://images.moneycontrol.com/images/common/header/logo.png'}, 'url': 'https://www.moneycontrol.com'}}]
+2021-10-17 01:24:58.744 | DEBUG    | __main__:get_tags:48 - Found tags=[<a href="https://www.moneycontrol.com/news/tags/hot-stocks.html" title="Hot Stocks">#Hot Stocks</a>, <a href="https://www.moneycontrol.com/news/tags/karan-pai.html" title="Karan Pai">#Karan Pai</a>, <a href="https://www.moneycontrol.com/news/tags/market-edge.html" title="Market Edge">#Market Edge</a>, <a href="https://www.moneycontrol.com/news/tags/market-outlook.html" title="MARKET OUTLOOK">#MARKET OUTLOOK</a>, <a href="https://www.moneycontrol.com/news/tags/nifty.html" title="Nifty">#Nifty</a>, <a href="https://www.moneycontrol.com/news/tags/podcast.html" title="Podcast">#Podcast</a>, <a href="https://www.moneycontrol.com/news/tags/sensex.html" title="Sensex">#Sensex</a>, <a href="https://www.moneycontrol.com/news/tags/stock-recommendations.html" title="stock recommendations">#stock recommendations</a>, <a href="https://www.moneycontrol.com/news/tags/technical-recommendations.html" title="Technical Recommendations">#Technical Recommendations</a>]
+2021-10-17 01:24:58.758 | DEBUG    | __main__:get_related_stories:64 - Found related_stories=[<li><a href="https://www.moneycontrol.com/news/business/markets/hot-stocks-can-bet-on-hdfc-twins-bandhan-bank-for-double-digit-returns-7557221.html" onclick="ga('send', 'event', 'Related News Widget', 'News Consumption', '6862311_Relatednews_');" title="Hot Stocks: 'Can bet on HDFC twins, Bandhan Bank for double-digit returns'"><div class="image_block"><img src="https://images.moneycontrol.com/static-mcnews/2021/10/market.jpg?impolicy=website&amp;width=168&amp;height=118"/></div><div class="content_block">Hot Stocks: 'Can bet on HDFC twins, Bandhan Bank for double-digit returns'</div></a></li>, <li><a href="https://www.moneycontrol.com/news/business/markets/hot-stocks-can-fin-homes-ongc-and-itc-can-give-15-28-returns-in-short-term-7499541.html" onclick="ga('send', 'event', 'Related News Widget', 'News Consumption', '6862311_Relatednews_');" title="Hot Stocks | Can Fin Homes, ONGC and ITC can give 15-28% returns in short term"><div class="image_block"><img src="https://images.moneycontrol.com/static-mcnews/2021/09/Market.unsplash.jpg?impolicy=website&amp;width=168&amp;height=118"/></div><div class="content_block">Hot Stocks | Can Fin Homes, ONGC and ITC can give 15-28% returns in short term</div></a></li>, <li><a href="https://www.moneycontrol.com/news/business/markets/nifty-range-for-the-weeks-ahead-and-three-stocks-that-can-give-up-to-22-return-7449821.html" onclick="ga('send', 'event', 'Related News Widget', 'News Consumption', '6862311_Relatednews_');" title="Nifty range for the weeks ahead, and three stocks that can give up to 22% return"><div class="image_block"><img src="https://images.moneycontrol.com/static-mcnews/2021/09/shutterstock_548314540-1.jpg?impolicy=website&amp;width=168&amp;height=118"/></div><div class="content_block">Nifty range for the weeks ahead, and three stocks that can give up to 22% return</div></a></li>]
+2021-10-17 01:24:58.762 | ERROR    | __main__:get_stock_symbols:25 - 'NoneType' object has no attribute 'find_all'
+Traceback (most recent call last):
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 188, in <module>
+    scraped_data = get_post(post)
+                   │        └ {'post_date': 'May 07, 2021 07:39 AM IST', 'post_title': 'Hot Stocks: BHEL, BEL & Ajanta Pharma top stocks to buy for short t...
+                   └ <function get_post at 0x7f09d0d63310>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 155, in get_post
+    moneycontrol_stock_ids = get_stock_symbols(content)
+                             │                 └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+                             └ <function get_stock_symbols at 0x7f09d0e89160>
+
+> File "/home/revant/Desktop/money_control/get_post.py", line 15, in get_stock_symbols
+    soup.find("div", class_="content_wrapper arti-flow")
+    │    └ <function Tag.find at 0x7f09d0e3c430>
+    └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+
+AttributeError: 'NoneType' object has no attribute 'find_all'
+2021-10-17 01:24:58.821 | ERROR    | __main__:get_stock_symbols:26 - <traceback object at 0x7f09d0ae6ec0>
+Traceback (most recent call last):
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 188, in <module>
+    scraped_data = get_post(post)
+                   │        └ {'post_date': 'May 07, 2021 07:39 AM IST', 'post_title': 'Hot Stocks: BHEL, BEL & Ajanta Pharma top stocks to buy for short t...
+                   └ <function get_post at 0x7f09d0d63310>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 155, in get_post
+    moneycontrol_stock_ids = get_stock_symbols(content)
+                             │                 └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+                             └ <function get_stock_symbols at 0x7f09d0e89160>
+
+> File "/home/revant/Desktop/money_control/get_post.py", line 15, in get_stock_symbols
+    soup.find("div", class_="content_wrapper arti-flow")
+    │    └ <function Tag.find at 0x7f09d0e3c430>
+    └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+
+AttributeError: 'NoneType' object has no attribute 'find_all'
+2021-10-17 01:24:58.869 | DEBUG    | __main__:get_calls:130 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/infrastructure-general/bharatheavyelectricals/BHE" rel="nofollow">BHEL: Buy | LTP: Rs 57 | Target: Rs 66-72 | Stop Loss: Rs 52 | Upside 26%</a>
+2021-10-17 01:24:58.869 | DEBUG    | __main__:get_call_data:73 - Split into parts=['BHEL: Buy ', ' LTP: Rs 57 ', ' Target: Rs 66-72 ', ' Stop Loss: Rs 52 ', ' Upside 26%']
+2021-10-17 01:24:58.870 | DEBUG    | __main__:get_call_data:82 - Link found = https://www.moneycontrol.com/india/stockpricequote/infrastructure-general/bharatheavyelectricals/BHE
+2021-10-17 01:24:58.870 | DEBUG    | __main__:get_call_data:104 - call_type='buy' stock_name='BHEL: Buy ' ltp='57' target='6672' stop_loss='52' upside_potential=' Upside 26%'
+2021-10-17 01:24:58.870 | DEBUG    | __main__:get_calls:130 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/electricals/bharatelectronics/BE03" rel="nofollow">BEL: LTP: 141 | Target: Rs 154 | Stop Loss: Rs 129 | Upside 9%</a>
+2021-10-17 01:24:58.870 | DEBUG    | __main__:get_call_data:73 - Split into parts=['BEL: LTP: 141 ', ' Target: Rs 154 ', ' Stop Loss: Rs 129 ', ' Upside 9%']
+2021-10-17 01:24:58.870 | DEBUG    | __main__:get_call_data:82 - Link found = https://www.moneycontrol.com/india/stockpricequote/electricals/bharatelectronics/BE03
+2021-10-17 01:24:58.871 | ERROR    | __main__:<module>:192 - list index out of range
+Traceback (most recent call last):
+
+> File "/home/revant/Desktop/money_control/get_post.py", line 188, in <module>
+    scraped_data = get_post(post)
+                   │        └ {'post_date': 'May 07, 2021 07:39 AM IST', 'post_title': 'Hot Stocks: BHEL, BEL & Ajanta Pharma top stocks to buy for short t...
+                   └ <function get_post at 0x7f09d0d63310>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 157, in get_post
+    calls_data = get_calls(content)
+                 │         └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+                 └ <function get_calls at 0x7f09d0d63280>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 138, in get_calls
+    calls_data.append(get_call_data(call_element))
+    │          │      │             └ <a href="https://www.moneycontrol.com/india/stockpricequote/electricals/bharatelectronics/BE03" rel="nofollow">BEL: LTP: 141 ...
+    │          │      └ <function get_call_data at 0x7f09d0d631f0>
+    │          └ <method 'append' of 'list' objects>
+    └ [{'call_type': 'buy', 'stock_name': 'BHEL: Buy ', 'ltp': '57', 'target': '6672', 'stop_loss': '52', 'upside_potential': ' Ups...
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 102, in get_call_data
+    upside_potential = parts[4]
+                       └ ['BEL: LTP: 141 ', ' Target: Rs 154 ', ' Stop Loss: Rs 129 ', ' Upside 9%']
+
+IndexError: list index out of range
+2021-10-17 01:24:58.897 | ERROR    | __main__:<module>:193 - <traceback object at 0x7f09d0ae4a80>
+Traceback (most recent call last):
+
+> File "/home/revant/Desktop/money_control/get_post.py", line 188, in <module>
+    scraped_data = get_post(post)
+                   │        └ {'post_date': 'May 07, 2021 07:39 AM IST', 'post_title': 'Hot Stocks: BHEL, BEL & Ajanta Pharma top stocks to buy for short t...
+                   └ <function get_post at 0x7f09d0d63310>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 157, in get_post
+    calls_data = get_calls(content)
+                 │         └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+                 └ <function get_calls at 0x7f09d0d63280>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 138, in get_calls
+    calls_data.append(get_call_data(call_element))
+    │          │      │             └ <a href="https://www.moneycontrol.com/india/stockpricequote/electricals/bharatelectronics/BE03" rel="nofollow">BEL: LTP: 141 ...
+    │          │      └ <function get_call_data at 0x7f09d0d631f0>
+    │          └ <method 'append' of 'list' objects>
+    └ [{'call_type': 'buy', 'stock_name': 'BHEL: Buy ', 'ltp': '57', 'target': '6672', 'stop_loss': '52', 'upside_potential': ' Ups...
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 102, in get_call_data
+    upside_potential = parts[4]
+                       └ ['BEL: LTP: 141 ', ' Target: Rs 154 ', ' Stop Loss: Rs 129 ', ' Upside 9%']
+
+IndexError: list index out of range

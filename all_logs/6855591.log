@@ -1,0 +1,99 @@
+2021-10-17 01:25:16.033 | INFO     | request_utils:get:44 - Firing a GET request to https://www.moneycontrol.com/news/business/markets/hot-stocks-bharti-airtel-ge-shipping-naukri-top-stocks-to-buy-for-short-term-6855591.html with headers=None cookies=None query_params=None
+2021-10-17 01:25:16.444 | DEBUG    | request_utils:get:51 - Received response = <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><head><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><meta http-equiv="x-ua-compatible" content="ie=edge"><link href="https://fonts.googleapis.com/css?family=Noto+Serif:400,700" rel="stylesheet" defer>   <meta charset="utf-8"><title>Hot Stocks: Bharti Airtel, GE Shipping & Naukri Top Stocks To Buy For...
+2021-10-17 01:25:16.646 | DEBUG    | __main__:get_author:56 - Author details: name='Himanshu Gupta' designation='Vice President - Research| Globe Capital Markets Ltd '
+2021-10-17 01:25:16.669 | DEBUG    | __main__:get_metadata:40 - <traceback object at 0x7f09cff3fa80>
+2021-10-17 01:25:16.670 | DEBUG    | __main__:get_metadata:40 - <traceback object at 0x7f09cfec7f80>
+2021-10-17 01:25:16.672 | DEBUG    | __main__:get_metadata:35 - Found metadata=[{'@context': 'https://schema.org', 'mainEntityOfPage': 'https://www.moneycontrol.com/news/business/markets/hot-stocks-bharti-airtel-ge-shipping-naukri-top-stocks-to-buy-for-short-term-6855591.html', '@type': 'NewsArticle', 'url': 'https://www.moneycontrol.com/news/business/markets/hot-stocks-bharti-airtel-ge-shipping-naukri-top-stocks-to-buy-for-short-term-6855591.html', 'articleBody': 'While the benchmark indices have managed to hold the lower boundaries of the broader ranges over the past few weeks, the ruthless selling by the FIIs over the last three trading sessions is casting doubt over the ability of the bulls to withstand the downward pressure.The broader range over the past six weeks has been well-defined where 15000-14200 remain the well-respected boundaries.From a very near-term perspective, 14350-14300 is the pivotal support zone which, if breached, will attract fresh weakness and can take the Nifty towards the next support of 14150-14200 zone and can even amplify the decline towards 14000-13800 zone.Till the time, the Nifty is within the said range, it will be safe to assume that markets are in a consolidation mode which is often characterized as a sideways phase.Despite sideways consolidation in the market, there are few sectors that have been showing relative strength. Pharma, IT, and Chemical sector remain the strong pockets so far, but IT has started to witness some profit booking.On the other hand banks, financials and autos are expected to face pressure amidst the COVID and lockdown uncertainties. Metals are the only bright spot in this market where it will be interesting to see how the markets react post the quarterly results.Here is a list of stocks for the next 3-4 weeks:Bharti Airtel: Buy | LTP: Rs 552 | Target: Rs 600 | Stop Loss: Rs 530After a long consolidation, the counter has given a breakout and cleared the immediate supply zone of Rs 540-550 levels.The daily charts is suggesting a visible higher high &ndash; higher low sequence while the Relative Strength Index has given a buy crossover with supportive volumes.GE Shipping: Buy | LTP: Rs 344 | Target: Rs 400 | Stop Loss: Rs 320 The stock has given a multi-year breakout above Rs 330-340 zone where the counter has faced resistance on multiple occasions in the last three years.The breakout is accompanied by huge delivery volumes witnessed over the past few trading sessions, along with buy crossover on the crucial short-term moving averages.We expect the counter to head sharply higher from current levels and therefore recommend a buy on the stock.Info Edge: Buy | LTP: Rs 4795 | Target: Rs 5150 | Stop Loss: Rs 4620The stock is in a strong uptrend and over the past few sessions, it has retraced to its short-term support zone of&nbsp;Rs&nbsp;4700 odd levels.The stock is placed above the median of the Bollinger band ending towards the upper band, along with strong delivery volumes which supports the bullish stance for the counter.(The author is VP Research Globe Capital Markets)Disclaimer: The views and investment tips expressed by the investment expert on Moneycontrol.com are his own and not that of the website or its management. Moneycontrol.com advises users to check with certified experts before taking any investment decisions.', 'articleSection': 'Business', 'headline': 'Hot Stocks: Bharti Airtel, GE Shipping &amp;amp; Naukri top stocks to buy for short term', 'description': 'Despite sideways consolidation in the market, there are few sectors that have been showing relative strength. Pharma, IT, and Chemical sector remain the strong pockets so far', 'author': 'Himanshu Gupta', 'datePublished': '2021-05-05T07:26:04+05:30', 'dateModified': '2021-05-05T07:26:04+05:30', 'image': {'@context': 'https://schema.org', '@type': 'ImageObject', 'width': '630px', 'height': '354px', 'url': 'https://images.moneycontrol.com/static-mcnews/2018/12/trader-stock-market-nse-bse-market-bull-bear-770x433-770x433.jpg'}, 'publisher': {'@context': 'https://schema.org', '@type': 'Organization', 'name': 'Moneycontrol', 'logo': {'@context': 'https://schema.org', '@type': 'ImageObject', 'width': '247px', 'height': '94px', 'url': 'https://images.moneycontrol.com/images/common/header/logo.png'}, 'url': 'https://www.moneycontrol.com'}}]
+2021-10-17 01:25:16.685 | DEBUG    | __main__:get_tags:48 - Found tags=[<a href="https://www.moneycontrol.com/news/tags/himanshu-gupta.html" title="Himanshu Gupta">#Himanshu Gupta</a>, <a href="https://www.moneycontrol.com/news/tags/hot-stocks.html" title="Hot Stocks">#Hot Stocks</a>, <a href="https://www.moneycontrol.com/news/tags/market-edge.html" title="Market Edge">#Market Edge</a>, <a href="https://www.moneycontrol.com/news/tags/market-outlook.html" title="MARKET OUTLOOK">#MARKET OUTLOOK</a>, <a href="https://www.moneycontrol.com/news/tags/nifty.html" title="Nifty">#Nifty</a>, <a href="https://www.moneycontrol.com/news/tags/sensex.html" title="Sensex">#Sensex</a>, <a href="https://www.moneycontrol.com/news/tags/stock-recommendations.html" title="stock recommendations">#stock recommendations</a>, <a href="https://www.moneycontrol.com/news/tags/technical-recommendations.html" title="Technical Recommendations">#Technical Recommendations</a>]
+2021-10-17 01:25:16.706 | DEBUG    | __main__:get_related_stories:64 - Found related_stories=[<li><a href="https://www.moneycontrol.com/news/business/markets/hot-stocks-can-bet-on-hdfc-dixon-technologies-maruti-suzuki-india-for-short-term-7441371.html" onclick="ga('send', 'event', 'Related News Widget', 'News Consumption', '6855591_Relatednews_');" title="Hot Stocks | 'Can bet on HDFC, Dixon Technologies, Maruti Suzuki India for short term'"><div class="image_block"><img src="https://images.moneycontrol.com/static-mcnews/2021/09/stocks_sensex_nifty_stockmarket3.jpg?impolicy=website&amp;width=168&amp;height=118"/></div><div class="content_block">Hot Stocks | 'Can bet on HDFC, Dixon Technologies, Maruti Suzuki India for short term'</div></a></li>, <li><a href="https://www.moneycontrol.com/news/business/markets/hot-stocks-india-cements-phillips-carbon-and-bharat-electronics-top-buys-for-short-term-heres-why-6919191.html" onclick="ga('send', 'event', 'Related News Widget', 'News Consumption', '6855591_Relatednews_');" title="Hot Stocks: India Cements, Phillips Carbon and Bharat Electronics top buys for short term; here’s why"><div class="image_block"><img src="https://images.moneycontrol.com/static-mcnews/2017/10/BSE_Sensex_Stocks_NSE_Nifty.jpg?impolicy=website&amp;width=168&amp;height=118"/></div><div class="content_block">Hot Stocks: India Cements, Phillips Carbon and Bharat Electronics top buys for short term; here’s ...</div></a></li>, <li><a href="https://www.moneycontrol.com/news/business/markets/hot-stocks-bpcl-mangalore-chemicals-and-nhpc-top-buys-for-short-term-heres-why-6881321.html" onclick="ga('send', 'event', 'Related News Widget', 'News Consumption', '6855591_Relatednews_');" title="Hot Stocks: BPCL, Mangalore Chemicals and NHPC top buys for short term; here’s why"><div class="image_block"><img src="https://images.moneycontrol.com/static-mcnews/2021/05/stocks_sensex_nifty_stockmarket3-1.jpg?impolicy=website&amp;width=168&amp;height=118"/></div><div class="content_block">Hot Stocks: BPCL, Mangalore Chemicals and NHPC top buys for short term; here’s why</div></a></li>]
+2021-10-17 01:25:16.709 | ERROR    | __main__:get_stock_symbols:25 - 'NoneType' object has no attribute 'find_all'
+Traceback (most recent call last):
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 188, in <module>
+    scraped_data = get_post(post)
+                   │        └ {'post_date': 'May 05, 2021 07:26 AM IST', 'post_title': 'Hot Stocks: Bharti Airtel, GE Shipping & Naukri top stocks to buy f...
+                   └ <function get_post at 0x7f09d0d63310>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 155, in get_post
+    moneycontrol_stock_ids = get_stock_symbols(content)
+                             │                 └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+                             └ <function get_stock_symbols at 0x7f09d0e89160>
+
+> File "/home/revant/Desktop/money_control/get_post.py", line 15, in get_stock_symbols
+    soup.find("div", class_="content_wrapper arti-flow")
+    │    └ <function Tag.find at 0x7f09d0e3c430>
+    └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+
+AttributeError: 'NoneType' object has no attribute 'find_all'
+2021-10-17 01:25:16.772 | ERROR    | __main__:get_stock_symbols:26 - <traceback object at 0x7f09cfec9b80>
+Traceback (most recent call last):
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 188, in <module>
+    scraped_data = get_post(post)
+                   │        └ {'post_date': 'May 05, 2021 07:26 AM IST', 'post_title': 'Hot Stocks: Bharti Airtel, GE Shipping & Naukri top stocks to buy f...
+                   └ <function get_post at 0x7f09d0d63310>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 155, in get_post
+    moneycontrol_stock_ids = get_stock_symbols(content)
+                             │                 └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+                             └ <function get_stock_symbols at 0x7f09d0e89160>
+
+> File "/home/revant/Desktop/money_control/get_post.py", line 15, in get_stock_symbols
+    soup.find("div", class_="content_wrapper arti-flow")
+    │    └ <function Tag.find at 0x7f09d0e3c430>
+    └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+
+AttributeError: 'NoneType' object has no attribute 'find_all'
+2021-10-17 01:25:16.805 | DEBUG    | __main__:get_calls:130 - Getting calls for <a href="https://www.moneycontrol.com/india/stockpricequote/telecommunications-service/bhartiairtel/BA08" rel="nofollow">Bharti Airtel: Buy | LTP: Rs 552 | Target: Rs 600 | Stop Loss: Rs 530</a>
+2021-10-17 01:25:16.805 | DEBUG    | __main__:get_call_data:73 - Split into parts=['Bharti Airtel: Buy ', ' LTP: Rs 552 ', ' Target: Rs 600 ', ' Stop Loss: Rs 530']
+2021-10-17 01:25:16.805 | DEBUG    | __main__:get_call_data:82 - Link found = https://www.moneycontrol.com/india/stockpricequote/telecommunications-service/bhartiairtel/BA08
+2021-10-17 01:25:16.806 | ERROR    | __main__:<module>:192 - list index out of range
+Traceback (most recent call last):
+
+> File "/home/revant/Desktop/money_control/get_post.py", line 188, in <module>
+    scraped_data = get_post(post)
+                   │        └ {'post_date': 'May 05, 2021 07:26 AM IST', 'post_title': 'Hot Stocks: Bharti Airtel, GE Shipping & Naukri top stocks to buy f...
+                   └ <function get_post at 0x7f09d0d63310>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 157, in get_post
+    calls_data = get_calls(content)
+                 │         └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+                 └ <function get_calls at 0x7f09d0d63280>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 138, in get_calls
+    calls_data.append(get_call_data(call_element))
+    │          │      │             └ <a href="https://www.moneycontrol.com/india/stockpricequote/telecommunications-service/bhartiairtel/BA08" rel="nofollow">Bhar...
+    │          │      └ <function get_call_data at 0x7f09d0d631f0>
+    │          └ <method 'append' of 'list' objects>
+    └ []
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 102, in get_call_data
+    upside_potential = parts[4]
+                       └ ['Bharti Airtel: Buy ', ' LTP: Rs 552 ', ' Target: Rs 600 ', ' Stop Loss: Rs 530']
+
+IndexError: list index out of range
+2021-10-17 01:25:16.833 | ERROR    | __main__:<module>:193 - <traceback object at 0x7f09cfecb8c0>
+Traceback (most recent call last):
+
+> File "/home/revant/Desktop/money_control/get_post.py", line 188, in <module>
+    scraped_data = get_post(post)
+                   │        └ {'post_date': 'May 05, 2021 07:26 AM IST', 'post_title': 'Hot Stocks: Bharti Airtel, GE Shipping & Naukri top stocks to buy f...
+                   └ <function get_post at 0x7f09d0d63310>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 157, in get_post
+    calls_data = get_calls(content)
+                 │         └ <div class="content_wrapper arti-flow"><div class="social_icons_wrapper"> <ul class="social_icons_list"> <li> <a class="socia...
+                 └ <function get_calls at 0x7f09d0d63280>
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 138, in get_calls
+    calls_data.append(get_call_data(call_element))
+    │          │      │             └ <a href="https://www.moneycontrol.com/india/stockpricequote/telecommunications-service/bhartiairtel/BA08" rel="nofollow">Bhar...
+    │          │      └ <function get_call_data at 0x7f09d0d631f0>
+    │          └ <method 'append' of 'list' objects>
+    └ []
+
+  File "/home/revant/Desktop/money_control/get_post.py", line 102, in get_call_data
+    upside_potential = parts[4]
+                       └ ['Bharti Airtel: Buy ', ' LTP: Rs 552 ', ' Target: Rs 600 ', ' Stop Loss: Rs 530']
+
+IndexError: list index out of range
